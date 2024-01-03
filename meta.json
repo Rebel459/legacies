@@ -4,7 +4,7 @@
   "versions": [
     {
       "id": "v1.4.0",
-      "releasedAt": 111 // Current Millis placeholder
+      "releasedAt": 111
     }
   ]
 }
