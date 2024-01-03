@@ -4,6 +4,7 @@
   "versions": [
     {
       "id": "1.4.0",
+      "updateType": "major"
       "releasedAt": 111
     }
   ]
