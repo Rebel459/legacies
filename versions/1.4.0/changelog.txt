@@ -4,7 +4,7 @@
 
 Thank you all so much for the support. With Legacies 1.4, it's safe to say that this project of 1+ years and several hundred hours has finally come together, as one unparralelled, unique and coherent experience. I truly hope you all enjoy.
 
-WARNING: may break older worlds - either stick on an older version or backup before updating
+WARNING: may break older worlds - either stick on an older version or backup before updating. Sorry about this, but breaking changes were necessary for long-term improvements and stability, and will not happen again.
 
 What's New
 
