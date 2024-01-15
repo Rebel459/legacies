@@ -1,1 +1,409 @@
-placeholder changelog
+-------------------
+  Legacies v1.4.0
+-------------------
+
+Thank you all so much for the support. With Legacies 1.4, it's safe to say that this project of 1+ years and several hundred hours has finally come together, as one unparralelled, unique and coherent experience. I truly hope you all enjoy.
+
+WARNING: may break older worlds - either stick on an older version or backup before updating
+
+What's New
+
+- a ton of everything. I've spent several dozen hours, if not more, on this update alone. Hence the slight wait.
+
+- reimagined enchanting system - expererience an all-new system for enchanting and repairing, faithful to the vanilla design. This includes a custom enchant book loot rework across all structures, vanilla and modded
+
+- completely reworked and updated literally every aspect of the game with a meticulous amount of integration and custom tuning. This won't feel like a modpack - this will feel like one, coherent and whole game.
+
+- the Legacies Wiki! Check it out here: https://legacies.miraheze.org/wiki/Main_Page
+
+- overhauled overworld worldgen. New biomes, custom, fine-tuned biome reworks, hours of integration on the smallest things between each and evey mod. This is truly Minecraft at its best, with unmatched levels of custom content and integration for a vanilla-like style.
+
+- completely reworked and expanded custom datapacks, configs etc. I spent dozens if not hundreds of hours on this, do not underestimate the difference it makes - as I've stated already, the sheer level of consistency, quality, custom integration and more, in all aspects, from worldgen to gameplay content, is simply unmatched
+
+- reworked nether generation and structures
+
+- end updates
+
+- VR, controller and global multiplayer support!
+
+- major updates for Legacies and Legends (with the new Nature's Melody), Progression Reborn and the all-new End Reborn
+
+- Charm on 1.20! Dynamic Trims! Improved optimisation! Reworked menus! Updated progression! New music and unique, fitting structures! So many things to list
+
+- without further ado, let's get onto the mod changes changelog. Due to the scope of this update, this changelog doesn't accurately reflect the update - you can pretty much treat this as a "2.0", or whole new pack. It's a massive evolution on the existing game, so reading which mods were technically added/removed won't accurately reflect the updated experience alone. It moreso exists as a dev changelog of major mod changes, as content changes aren't well reflected in the below logs
+
+Added
+
+- Simple Snowy Fix
+
+- Maps of the Unkown
+
+- ReBalance
+
+- Gipples Galore
+
+- Ecologics
+
+- Doors Closed
+
+- Enchantments Plus
+
+- Enchantery
+
+- BadOptimizations
+
+- Modpack Update Checker
+
+- Custom Credits
+
+- Portfolio
+
+- Better Christmas Chests (resource pack)
+
+- Nature's Spirit (custom edit)
+
+- Fog Looks Good Now
+
+- M.R.U
+
+- Chrysalis
+
+- Dynamic Textures
+
+- End Reborn
+
+- Charm (1.20 beta)
+
+- Dynamic Trim
+
+- What the Bucket
+
+- Wakes
+
+- Nether 1-to-1 (datapack)
+
+- Armor Stand Poses
+
+- Necromonicon API
+
+- Better Nether Generation (192 blocks)
+
+- Enchantment Groups
+
+- Extra Enchantments and Curses
+
+- Better Hud (custom edit) (resource pack)
+
+- Vivecraft
+
+- Fabric Disable Firework Boost
+
+- Bedrockify
+
+- Panorama Screens (integrated with Bedrockify) (disabled)
+
+- e4mc
+
+- Axolotl Bucket Variants (resource pack)
+
+- Immersive Snow
+
+- IconsTab (resource pack)
+
+- Nature's Melody
+
+- EMI
+
+- EMI Addon: Extra Mod Integration
+
+- EMI Loot
+
+- EMI Trades
+
+- Map Atlases
+
+- Controllify
+
+- ImprovedLodestones
+
+- Iris Oculus Geckolib Compat
+
+- Simple Boss Bars (custom edit) (resource pack)
+
+- Preferred Gamerules
+
+Changed
+
+- updated Fabric API and Loader versions to 91.0 and 15.3 respectively
+
+- updated default shaders and edited config
+
+- added second, "Performance" shader configuration preset
+
+- completely reworked pretty much everything in the globalpacks/ folder
+
+(section omitted due to the sheer amount of changes, custom configs etc which is far too much to document)
+
+Updated
+
+- Fabric API
+
+- Fabric Loader
+
+- More Armor Trims
+
+- Friends and Foes
+
+- Charmonium
+
+- Enderman Overhaul
+
+- FrozenLib
+
+- FancyMenu
+
+- Towns and Towers
+
+- Complementary Reimagined / Euphoria Patches (shaderpack)
+
+- End Remastered
+
+- Spirit Walker
+
+- Snowy Spirit
+
+- Collective
+
+- Biome Makeover
+
+- Centred Crosshair
+
+- Every Compat
+
+- Enhanced Book Writing
+
+- Easy Elytra Takeoff
+
+- No Telemetry
+
+- Nether Portal Fix
+
+- Nullscape
+
+- Raised
+
+- Shifting Wares
+
+- Shoulder Surfing Reloaded
+
+- Separated Leaves
+
+- SIHYWTCAMD?
+
+- Seamless
+
+- Searchables
+
+- Snowy Spirit
+
+- Supplementaries
+
+- Urkaz Moon Tools
+
+- Tips
+
+- Tool Stats
+
+- Xaero's Minimap
+
+- YUNG's Better Ocean Monuments
+
+- Progression Reborn
+
+- Legacies and Legends
+
+- Progression Reborn Knives
+
+- MmmMmmMmmMmm
+
+- Mooshroom Tweaks
+
+- Passive Shield
+
+- Polymorph
+
+- Pistorder
+
+- Audaki Cart Engine
+
+- Better Advancements
+
+- Better Frost Walker
+
+- Better Spawner Control
+
+- Better Statistics Screen
+
+- Crafting Tweaks
+
+- Continuity
+
+- Conduit Prevents Drowned
+
+- Chat Heads
+
+- Cherished Worlds
+
+- Discerning Furnace
+
+- Dynamic FPS
+
+- Enchant Tweaker
+
+- Fabric Waystones
+
+- Falling Leaves
+
+- Fabrication
+
+- Ferritecore
+
+- Ice Prevents Crop Growth
+
+- Luna Slimes
+
+- Immediately Fast
+
+- Servercore
+
+- Entity Texture Features
+
+- Bad Packets
+
+- ArmorTweaks
+
+Removed
+
+- AdventureZ
+
+- Chalk
+
+- Chalk Colorful Addon
+
+- Snow Under Trees
+
+- LibJF
+
+- Combit
+
+- Etcetera
+
+- Variant Bookshelves
+
+- Better Archaeology
+
+- Trinkets
+
+- Cosmetic Armor
+
+- Better Bookshelves
+
+- Vibes
+
+- Eroding Stone Entities
+
+- Macaw's Paintings
+
+- Mo' Glass
+
+- Xaero's World Map
+
+- Forgotten Graves
+
+- Endgame Reborn
+
+- Endgame Reborn Knives
+
+- Portal Linking Compass
+
+- Armor Statues
+
+- Balancing for Better
+
+- Bits and Chisels
+
+- Chainmail Bucket
+
+- Just an End Anchor
+
+- Lovely Snails
+
+- Modern Glass Doors
+
+- Nears
+
+- Nether 3.0
+
+- Relaxed Instabreak Revolt
+
+- Shards
+
+- Shiny Horses
+
+- Show Me Your Skin
+
+- Disable Custom Worlds Advice
+
+- Double Doors
+
+- Echoes of the Past
+
+- Harvest with Ease
+
+- Snuffles
+
+- Blockus
+
+- Inventory Sorting
+
+- Swampier Swamps
+
+- Replanting Crops
+
+- Repurposed Structures
+
+- Repurposed Structures Better Dungeons (datapack)
+
+- Biome Tag Villagers
+
+- Wunderreich
+
+- Enchanted Tooltips
+
+- Balanced Weapons
+
+- Regenerations
+
+- Tectonic
+
+- ElytraProtection
+
+- Cauldron Dyeing
+
+- No Rocket Boosting
+
+- World Host
+
+- Biome Moss
+
+- YUNG's Better Nether Fortresses
+
+- YUNG's Better Mineshafts
+
+- MidnightControls
+
+- Fast Portals
+
+- Potion Cauldron
+
+- Healing Soup
