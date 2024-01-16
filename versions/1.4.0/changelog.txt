@@ -136,6 +136,12 @@ Added
 
 - Noisium
 
+- CompleteConfig
+
+- Limited Lives
+
+- Death Finder
+
 Changed
 
 - updated Fabric API and Loader versions to 91.0 and 15.3 respectively
@@ -411,3 +417,5 @@ Removed
 - Potion Cauldron
 
 - Healing Soup
+
+- Xaero's Minimap
