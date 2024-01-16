@@ -12,7 +12,9 @@ What's New
 
 - reimagined enchanting system - expererience an all-new system for enchanting and repairing, faithful to the vanilla design. This includes a custom enchant book loot rework across all structures, vanilla and modded
 
-- completely reworked and updated literally every aspect of the game with a meticulous amount of integration and custom tuning. This won't feel like a modpack - this will feel like one, coherent and whole game.
+- updated, improved, reworked or expanded pretty much everything already in the modpack and base game - everything's been improved
+
+- completely reworked and updated literally every aspect of the game with a meticulous amount of integration and custom tuning. This won't feel like just a modpack - this will feel like one, coherent and whole game.
 
 - the Legacies Wiki! Check it out here: https://legacies.miraheze.org/wiki/Main_Page
 
@@ -22,7 +24,7 @@ What's New
 
 - reworked nether generation and structures
 
-- end updates
+- end updates and waystone reworks - they now function as a rare, unbreakable end structure as a unique way to set-up base in the end, and can be crafted with the hard-to-acquire Remnant should you wish to bring one home
 
 - VR, controller and global multiplayer support!
 
@@ -133,6 +135,8 @@ Added
 - Preferred Gamerules
 
 - StutterFix
+
+- Noisium
 
 Changed
 
