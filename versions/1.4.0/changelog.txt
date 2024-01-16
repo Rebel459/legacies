@@ -142,6 +142,8 @@ Added
 
 - Death Finder
 
+- Recovery+
+
 Changed
 
 - updated Fabric API and Loader versions to 91.0 and 15.3 respectively
