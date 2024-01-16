@@ -1,6 +1,6 @@
--------------------
+----------------
   Legacies v1.4.0
--------------------
+----------------
 
 Thank you all so much for the support. With Legacies 1.4, it's safe to say that this project of 1+ years and several hundred hours has finally come together, as one unparralelled, unique and coherent experience. I truly hope you all enjoy.
 
