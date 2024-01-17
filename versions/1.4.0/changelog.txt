@@ -140,8 +140,6 @@ Added
 
 - Limited Lives
 
-- Death Finder
-
 - Recovery+
 
 - Lower Shield (resource pack)
@@ -349,8 +347,6 @@ Removed
 - Mo' Glass
 
 - Xaero's World Map
-
-- Forgotten Graves
 
 - Endgame Reborn
 
