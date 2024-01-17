@@ -144,6 +144,26 @@ Added
 
 - Recovery+
 
+- Lower Shield (resource pack)
+
+- Default Server Properties
+
+- MoreBricks
+
+- More Bricks Plus
+
+- Bundle Recipe
+
+- Memory Leak Fix
+
+- Krypton
+
+- Debugify
+
+- FastAnim
+
+- Exordium
+
 Changed
 
 - updated Fabric API and Loader versions to 91.0 and 15.3 respectively
@@ -421,3 +441,11 @@ Removed
 - Healing Soup
 
 - Xaero's Minimap
+
+- Comforts
+
+- Snow! Real Magic!
+
+- TooltipFix
+
+- Passive Shield
