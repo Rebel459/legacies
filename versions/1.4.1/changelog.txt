@@ -2,6 +2,10 @@ Legacies v1.4.1
 
 - Server hotfix
 
+Changed
+
+- added back server-time-pause datapack
+
 Removed
 
 - Armor Stand Poses
@@ -11,3 +15,5 @@ Removed
 - Limited Lives
 
 - CompleteConfig
+
+- Multiplayer Server Pause
