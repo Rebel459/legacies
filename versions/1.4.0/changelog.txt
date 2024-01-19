@@ -164,7 +164,7 @@ Added
 
 - Where-Is-My-Stuff
 
-- Simple Rich Discord Presence
+- Simple Discord RPC
 
 Changed
 
