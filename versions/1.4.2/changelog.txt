@@ -10,7 +10,7 @@ Changed
 
 - edited Legacies custom datapack
 
-- changed default settings
+- edited default settings
 
 Updated
 
