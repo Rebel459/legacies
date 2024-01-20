@@ -1,3 +1,5 @@
+Legacies v1.4.2
+
 - atmosphere and sound overhaul
 
 Added
