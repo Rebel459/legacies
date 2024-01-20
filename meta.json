@@ -9,11 +9,13 @@
     },
     {
       "id": "1.4.1",
+      "updateType": "minor",
       "releasedAt": 1705640463543
     },
     {
       "id": "1.4.2",
-      "releasedAt": 1705710179201
+      "updateType": "minor",
+      "releasedAt": 1705710550912
     }
   ]
 }
