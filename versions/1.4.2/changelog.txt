@@ -1,17 +1,21 @@
-Legacies v1.4.2
-
 - atmosphere and sound overhaul
 
-Changed
+Added
 
-- added Dynamic Surroundings Fabric
+- Dynamic Surroundings Fabric
+
+Changed
 
 - edited Legacies custom datapack
 
 - changed default settings
 
-- updated Legacies and Legends
+Updated
 
-- removed Charmonium
+- Legacies and Legends
 
-- removed ImmersiveThunder
+Removed
+
+- Charmonium
+
+- ImmersiveThunder
