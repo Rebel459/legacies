@@ -14,6 +14,8 @@ Updated
 
 - Legacies and Legends
 
+- Modpack Update Checker
+
 Removed
 
 - Charmonium
