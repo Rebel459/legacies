@@ -39,9 +39,9 @@ End Reborn
 
 Nature's Melody
 
-- Primary License: All Rights Reserved
+- Primary License: MIT No Redistribution
 - all music rights to the respective authors under their chosen licenses, if any
-- credit to Eko for Nature's Spirit
+- full explicit rights are granted to Eko (author of Nature's Spirit) for any useage of this project, public or private, whatsoever
 
 Reimagined Trims
 
