@@ -1,0 +1,25 @@
+Legacies v1.4.2
+
+- atmosphere and sound overhaul
+
+Added
+
+- Dynamic Surroundings Fabric
+
+Changed
+
+- edited Legacies custom datapack
+
+- edited default settings
+
+Updated
+
+- Legacies and Legends
+
+- Modpack Update Checker
+
+Removed
+
+- Charmonium
+
+- ImmersiveThunder
