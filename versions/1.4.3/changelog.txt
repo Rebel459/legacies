@@ -18,9 +18,13 @@ Added
 
 Changed
 
-- edited Legacies custom datapack
+- Legacies (datapack)
 
-- edited Additional Additions' config
+- Additional Additions' config
+
+- Promenade's config
+
+- Map Atlases' config
 
 Updated
 
