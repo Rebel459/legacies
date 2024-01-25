@@ -26,6 +26,8 @@ Changed
 
 - Map Atlases' config
 
+- Dave's Potioneering's config
+
 Updated
 
 - Legacies and Legends
