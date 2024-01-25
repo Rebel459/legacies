@@ -1,25 +1,47 @@
-Legacies v1.4.2
+Legacies v1.4.3
 
-- atmosphere and sound overhaul
+What's New
+
+- dynamic third person camera when mounted, in boats, gliding with elytra etc
+
+- a multitude of improvements and fixes
 
 Added
 
-- Dynamic Surroundings Fabric
+- Auto Third Person
+
+- Real Arrow Tip
+
+- Item Obliterator
+
+- Just Enough Resources
 
 Changed
 
 - edited Legacies custom datapack
 
-- edited default settings
+- edited Additional Additions' config
 
 Updated
 
 - Legacies and Legends
 
-- Modpack Update Checker
+- Progression Reborn
+
+- True Ending (datapack)
+
+- Dave's Potioneering
+
+- Map Atlases
 
 Removed
 
-- Charmonium
+- Exordium
 
-- ImmersiveThunder
+- EMI
+
+- EMI Addon: Extra Mod Integrations
+
+- EMI Loot
+
+- EMI Trades
