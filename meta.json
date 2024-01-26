@@ -21,6 +21,11 @@
       "id": "1.4.3",
       "updateType": "minor",
       "releasedAt": 1706169159577
+    },
+    {
+      "id": "1.4.4",
+      "updateType": "minor",
+      "releasedAt": 1706230169535
     }
   ]
 }
