@@ -1,25 +1,17 @@
-Legacies v1.4.2
+Legacies v1.4.4
 
-- atmosphere and sound overhaul
-
-Added
-
-- Dynamic Surroundings Fabric
+- important fixes and improvements
 
 Changed
 
-- edited Legacies custom datapack
-
-- edited default settings
+- Item Obliterator's config
 
 Updated
 
+- Sleep Tight
+
 - Legacies and Legends
 
-- Modpack Update Checker
+- Progression Reborn
 
-Removed
-
-- Charmonium
-
-- ImmersiveThunder
+- Progression Reborn Knives
