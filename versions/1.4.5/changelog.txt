@@ -1,0 +1,39 @@
+Legacies v1.4.5
+
+What's New
+
+- Sawmill, the stonecutter, but for wood
+
+- massively expanded the amount of maps you can fit in an Atlas
+
+- enchantable horse armour (Shiny Horses)
+
+- several updates, fixes and major improvements
+
+Added
+
+- Replanting Crops
+
+- Sawmill
+
+- You Shall Not Spawn
+
+- Friends and Foes - Flowery Mooblooms
+
+Changed
+
+- edited various configs
+
+- edited Legacies datapack
+
+- improved default keybinds - as such, your options have been reset
+
+Updated
+
+- Kiwi
+
+- Map Atlases
+
+- Sleep Tight
+
+- Friends and Foes
