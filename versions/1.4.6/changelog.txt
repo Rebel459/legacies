@@ -1,0 +1,15 @@
+Legacies v1.4.6
+
+Added
+
+- DoesPotatoTick
+
+- Redirector
+
+- Dimensional Sync Fixes
+
+- GrassNotFloating
+
+Updated
+
+- BadOptimizations
