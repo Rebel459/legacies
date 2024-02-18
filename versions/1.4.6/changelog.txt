@@ -10,6 +10,12 @@ Added
 
 - GrassNotFloating
 
+- Nature's Spirit - Farmer's Delight Recipe Compat
+
+- Cauldron Dyeing
+
+- Potion Cauldron
+
 Changed
 
 - Legacies datapack
