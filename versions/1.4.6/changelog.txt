@@ -10,6 +10,12 @@ Added
 
 - GrassNotFloating
 
+Changed
+
+- Legacies datapack
+
 Updated
 
 - BadOptimizations
+
+- Legacies and Legends
