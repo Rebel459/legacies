@@ -1,0 +1,115 @@
+Legacies v1.4.7
+
+Added
+
+- Aileron
+
+- Shifting-Wares: VillagerConfig Addon
+
+Changed
+
+- updated shader configs
+
+- menu improvements
+
+- new custom window title
+
+- updated default options
+
+- made vanilla's villages and pillager outposts slightly more common and Towns and Towers' slightly rarer
+
+- disabled Supplementaries' Slice Maps
+
+- cleaned up duplicate mods
+
+Updated
+
+- Fabric Loader
+
+- Fabric API
+
+- Fabric Language Kotlin
+
+- Complementary (+Euphoria) shaders
+
+- Legacies and Legends
+
+- Progression Reborn
+
+- Wilder Wild
+
+- Bundle Recipe
+
+- Dynamic Surroundings Remastered
+
+- Reese's Sodium Options
+
+- Sodium
+
+- Sodium Extra
+
+- Sodium Shadowy Path Blocks
+
+- Iris Shaders
+
+- Audaki Cart Engine
+
+- Every Compat
+
+- Friends and Foes
+
+- Geckolib
+
+- More Armor Trims *
+
+- More Axolotl Variants API
+
+- More Axolotl Variants Mod
+
+- Noisium
+
+- Necromonicon API
+
+- Nature's Spirit - Farmer's Delight Recipe Compat
+
+- Shifting Wares
+
+- Wakes
+
+- e4mc
+
+- cat_jam
+
+- Indium
+
+- VillagerConfig
+
+- Supplementaries
+
+- Moonlight Lib
+
+- ImmediatelyFast
+
+Removed
+
+- Sodium Shader Support
+
+- DoesPotatoTick?
+
+- ShutUpMojang
+
+- No Telemetry
+
+- Disable Insecure Chat Toast
+
+- LazyDFU
+
+- EasyElytraTakeoff
+
+- Disable Firework Boost
+
+- Creeper Overhaul
+
+- Enderman Overhaul
+
+- Vivecraft
