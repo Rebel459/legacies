@@ -14,7 +14,9 @@ Changed
 
 - new custom window title
 
-- updated default options
+- updated default modpack options
+
+- edited Wakes' config to fix wakes rendering black when viewed without shaders
 
 - made vanilla's villages and pillager outposts slightly more common and Towns and Towers' slightly rarer
 
@@ -113,3 +115,5 @@ Removed
 - Enderman Overhaul
 
 - Vivecraft
+
+- Default Server Properties
