@@ -16,6 +16,8 @@ Updated
 
 - Falling Leaves
 
+- Map Atlases (v1.4.8HF)
+
 Removed
 
 - Profundis
