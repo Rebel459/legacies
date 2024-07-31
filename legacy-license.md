@@ -7,7 +7,7 @@ You are free to use any non-music assets and code provided they are used solely 
 
 Link to my projects: https://modrinth.com/user/Rebel459
 
-Link to my Discord and contact: https://discord.com/invite/7vJUhps4dt
+Link to my Discord and contact: https://discord.com/invite/TGbBb47Gr5
 
 ### Project Licenses
 
