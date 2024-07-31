@@ -1,6 +1,8 @@
 # Legacy License
 All Rights Reserved with some exceptions, unless explicitly stated otherwise.
 
+Note: this page will be updated once I port my mods to 1.21, as many of them will be open source starting with their next major releases.
+
 You are free to use any non-music assets and code provided they are used solely for compatibility/integration purposes (including making unofficial addons for use with the projects), with this rule applying to all projects excluding modpacks and modpack core-mods (mods designed solely for use with a specific or multiple specific modpacks). Any requests outside of this usage may be made to my Discord.
 
 Link to my projects: https://modrinth.com/user/Rebel459
