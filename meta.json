@@ -46,6 +46,11 @@
       "id": "1.4.8",
       "updateType": "minor",
       "releasedAt": 1721462177140
+    },
+    {
+      "id": "1.4.9",
+      "updateType": "minor",
+      "releasedAt": 1727511680955
     }
   ]
 }
