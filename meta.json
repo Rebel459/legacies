@@ -51,11 +51,6 @@
       "id": "1.4.9",
       "updateType": "minor",
       "releasedAt": 1727511680955
-    },
-    {
-      "id": "1.21.4-v1.0.0",
-      "updateType": "incompatible",
-      "releasedAt": 1737942278232
     }
   ]
 }
