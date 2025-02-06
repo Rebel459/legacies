@@ -12,13 +12,13 @@ Legacies and Legends
 
 Progression Reborn
 
-- Summary: All Rights Reserved assets, MIT License code
+- Summary: All Rights Reserved assets, LGPL License code
 - Full license link: https://github.com/Rebel459/progression-reborn/blob/main/LICENSE
 - Source code: https://github.com/rebel459/progression-reborn
 
 End Reborn
 
-- Summary: All Rights Reserved assets, MIT License code
+- Summary: All Rights Reserved assets, LGPL License code
 - Full license link: [coming soon]
 - Source code: [coming soon]
 
