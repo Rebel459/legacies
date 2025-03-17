@@ -1,3 +1,0 @@
-Legacies 1.21.4-v1.0.0
-
-- changelog
