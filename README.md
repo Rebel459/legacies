@@ -1,8 +1,7 @@
 GitHub for the Legacies modpack
 
-Wiki Pages:
+Wiki:
+https://legacies.miraheze.org/wiki/Archive
 
-Modpack Download:
+Download:
 https://modrinth.com/modpack/legacies
-
-https://legacies.miraheze.org/wiki
