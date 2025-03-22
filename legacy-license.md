@@ -40,6 +40,12 @@ Remnants
 - Full license: https://github.com/Rebel459/remnants/blob/main/LICENSE
 - Source code: https://github.com/Rebel459/remnants
 
+Serene Snowlogging
+
+- Summary: All Rights Reserved assets, LGPL License code
+- Full license: https://github.com/Rebel459/serene-snowlogging/blob/main/LICENSE
+- Source code: https://github.com/Rebel459/serene-snowlogging
+
 Rebel459
 https://modrinth.com/user/Rebel459
 https://discord.com/invite/TGbBb47Gr5
