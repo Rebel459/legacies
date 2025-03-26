@@ -1,5 +1,0 @@
-Legacies v1.4.10
-
-- updated wiki link to 1.20 archive
-
-- moved Modpack Update Checker repository to 1.20 archive

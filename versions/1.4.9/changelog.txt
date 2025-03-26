@@ -1,7 +1,0 @@
-Legacies v1.4.9
-
-- updated credits.txt
-
-- misc changes and bug fixes
-
-- removed Sawmill
