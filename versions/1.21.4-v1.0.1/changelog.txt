@@ -1,6 +1,5 @@
-Legacies 1.21.4-v1.0.1
-
 Changed
+
 - improved menu scaling and alignment / fixed misaligned menu animations
 - Palm Trees no longer spawn in Jungles
 - Archaeology Ruins are now more common
@@ -12,6 +11,7 @@ Changed
 - improved default options
 
 Updated
+
 - Legacies and Legends
 - End Reborn
 - Balm
