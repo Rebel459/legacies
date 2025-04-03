@@ -1,0 +1,20 @@
+Legacies 1.21.4-v1.0.1
+
+Changed
+- improved menu scaling and alignment / fixed misaligned menu animations
+- Palm Trees no longer spawn in Jungles
+- Archaeology Ruins are now more common
+- you can no longer find crops (with the exception of wheat seeds) from breaking grass or ferns
+- the max view distance has been set to 128
+- fixed the snuffle fluff carpet recipe
+- fixed 4 broken advancements
+- certain items are no longer favourited in REI by default
+- improved default options
+
+Updated
+- Legacies and Legends
+- End Reborn
+- Balm
+- MoreFood
+- Legacies Core
+- Shifting Wares
