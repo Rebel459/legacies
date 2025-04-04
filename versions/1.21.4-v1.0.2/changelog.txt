@@ -1,0 +1,8 @@
+Changed
+
+- menus now animate while in windowed
+- added button to toggle background animations
+- blurred fallback backgrounds
+- improved shader compatibility with snowlogged blocks and fragile ice
+- slightly buffed protection enchantments (Armor Nerf config)
+- disabled blockade snowlogging (Wilder Wild config)
