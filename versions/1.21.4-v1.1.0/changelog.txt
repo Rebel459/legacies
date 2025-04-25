@@ -1,0 +1,65 @@
+What's New
+
+- combat update, hunger changes, braver bundles and better enchanting!
+- a complete combat overhaul - including new damage values, attack speeds, reach and QOL features
+- hunger rework - heal slower, but you no longer need almost-full hunger to regenerate health
+- enchanting improvements - you now have improved chances of getting enchantments from your chiseled bookshelves in the table
+- updated bundles - collect blocks in your offhand or place blocks randomly whilst shifting
+- many smaller bug fixes and improvements
+
+Added
+
+- Braver Bundles
+- Combat Nouveau
+
+Changed
+
+- fixed rivers having incorrect biomes
+- edited Wilder Wild's mixin config
+- edited Chiseled Enchanting's config
+
+Updated
+
+- Fabric Loader to 0.16.14
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Progression Reborn
+- End Reborn
+- Remnants
+- Balm
+- Biolith
+- Bundles Beyond
+- Carbasa
+- Chat Patches
+- Collective
+- Controlify
+- Discerning Furnace
+- Drippy Loading Screen
+- Dynamic FPS
+- Elytra Revamped
+- Faewulf's Lib
+- FancyMenu
+- FrozenLib
+- Fzzy Config
+- Lithium
+- MidnightLib
+- MoreFood
+- NarrusYeetus No Error
+- Particle Core
+- Player Locator Plus
+- Roughly Enough Items (REI)
+- Shifting-Wares: VillagerConfig Addon
+- Sodium
+- Sodium Extras
+- Trailier Tales
+- True Ending: Ender Dragon Overhaul
+- Variants&Ventures
+- Wilder Wild
+- World Host
+- Xander's Sodium Options
+
+Removed
+
+- Stackable Bundles
+- WindChime Unofficial Continued
