@@ -1,0 +1,9 @@
+Changed
+
+- updated shader pack presets with improved mod support, better grass visuals and pixelated shadows
+- the Legacies menu background is now correctly displayed after returning from a multiplayer server
+- disabled throwing Coconuts in order to resolve a crash
+
+Updated
+
+- Legacies Core
