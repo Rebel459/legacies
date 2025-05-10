@@ -1,6 +1,7 @@
 Changed
 
 - added rarity-accurate tooltips for Friends&Foes and Enderscape content
+- reset player options
 
 Updated
 
