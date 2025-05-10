@@ -1,0 +1,60 @@
+What's New
+
+- comprehensive End overhaul! Overhauled generation, additional mobs and multiple new biomes (Enderscape)
+- Nether generation update - featuring improvements such as blackstone ores, vertical biome placement and terrain changes
+- new mobs and structures in the Overworld and Nether (Friends and Foes)
+- 11 new advancements
+- improvements, fixes and more!
+
+Added
+
+- Enderscape
+- Friends and Foes
+- Resourceful Lib
+- Inventory Management
+- Multiplayer Server Pause
+- iChunUtil
+- BisectHosting Server Integration Menu
+
+Changed
+
+- updated Legacies' shaders
+- reset player options
+- added 11 new advancements (8 End advancements, 3 Nether advancements)
+- improved inventory sorting buttons
+- fixed a minor music bug within the custom menus
+- coconuts are once again throwable
+- brushes, flint and steel, shears, carrot-on-a-sticks, warped-fungus-on-a-sticks, shields and elytras can now be enchanted at the enchanting table
+- fractured eyes can now be found within dungeons
+- added internal nether generation overhaul datapack
+- removed internal daylight time-pause datapack
+- situational music no longer plays in Creative
+- axes now take 2 durability on hit
+- hold-swing has been disabled to improve block breaking responsiveness
+- misc fixes and improvements
+
+Updated
+
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Progression Reborn
+- End Reborn
+- Remnants
+- Wilder Wild
+- FrozenLib
+- Balm
+- Better Advancements
+- Controlify
+- Dynamic FPS
+- Elytra Revamped
+- Simple Discord RPC
+- Wither's Wrath
+
+Removed
+
+- Incendium
+- Incendium Biomes Only
+- InvMove
+- InvMoveCompats
+- Lightweight Inventory Sorting

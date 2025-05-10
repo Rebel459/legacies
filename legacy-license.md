@@ -25,8 +25,8 @@ Progression Reborn
 End Reborn
 
 - Summary: All Rights Reserved assets, LGPL License code
-- Full license: [coming soon]
-- Source code: [coming soon]
+- Full license: https://github.com/Rebel459/end-reborn/blob/main/LICENSE
+- Source code: https://github.com/rebel459/end-reborn
 
 Fractured
 
