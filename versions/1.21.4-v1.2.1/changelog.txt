@@ -1,0 +1,8 @@
+Changed
+
+- added rarity-accurate tooltips for Friends&Foes and Enderscape content
+
+Updated
+
+- Progression Reborn
+- End Reborn
