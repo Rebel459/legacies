@@ -1,0 +1,47 @@
+Added
+
+- Wakes
+- Convenient Effects
+- Dyed Flames
+- MidnightControls
+
+Changed
+
+- added FancyMenu integration to additional menu screens
+- the Postmortal advancement can now be completed with Friends&Foes totems
+- advancement description tweaks
+- made Magnia Attractors enchantable
+- removed redundant internal files
+- Rubble Shields are no longer attainable
+- puddles are now disabled by default
+- fixed invisible output items when trading with villagers
+- toolsmith diamond hoe's now require a diamond to purchase
+- the default shaders now use a newer version of euphoria patches
+- fixed default shaders not loading on linux by no longer using supplemental patches
+- nether portals no longer cause the game to crash when placed or destroyed
+- music now plays in the pause menus, and you can view the name and author of the currently playing track
+- added new splash texts
+
+Updated
+
+- Legacies and Legends
+- Enchants and Expeditions
+- Progression Reborn
+- Balm
+- Biolith
+- CraterLib
+- Enderscape
+- Fabric Language Kotlin
+- Friends&Foes
+- FrozenLib
+- MidnightLib
+- Simple Music Control
+- Trailier Tales
+- TxniLib
+- Wilder Wild
+
+Removed
+
+- Nicer Portals
+- Controlify
+- Enchantment Lore
