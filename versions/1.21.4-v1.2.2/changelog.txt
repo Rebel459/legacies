@@ -20,6 +20,7 @@ Changed
 - fixed default shaders not loading on linux by no longer using supplemental patches
 - nether portals no longer cause the game to crash when placed or destroyed
 - music now plays in the pause menus, and you can view the name and author of the currently playing track
+- End Cities and Mirestone Ruins now generate less often
 - added new splash texts
 
 Updated
