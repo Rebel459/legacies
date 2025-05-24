@@ -1,0 +1,25 @@
+Added
+
+- Fog
+- M.R.U
+
+Changed
+
+- the now playing widget is only visible in the pause menu
+- added Flint Shards, which are used at the Fletching Table to craft Flint Arrows
+- added the arrow accuracy component to vanilla arrows
+- MoreFoods' stew and soup-like foods are now stackable
+- the Scaffholding structure in the Nether is slightly rarer
+- disabled the ability to acquire Travelling Strides
+- updated End credits
+
+Updated
+
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Atlas Core
+- Balm
+- Enderscape
+- Simple Music Control
+- Villager Config
