@@ -5,6 +5,7 @@ Added
 
 Changed
 
+- added the Fletching advancement
 - the now playing widget is only visible in the pause menu
 - added Flint Shards, which are used at the Fletching Table to craft Flint Arrows
 - added the arrow accuracy component to vanilla arrows
