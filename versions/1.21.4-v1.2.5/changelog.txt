@@ -2,14 +2,13 @@ Added
 
 - Idwtialsimmoedm
 - Held Item Tooltips
-- RME's Durability Tooltips
+- Durability Tooltip
 
 Changed
 
 - added various enchantment and effect descriptions
 - vanilla tipped and spectral arrows now utilise the arrow accuracy component
 - enchantment tooltips are no longer listed in their own category, in order to accomodate being able to shift-hover them for descriptions
-- durability tooltips are now only displayed whilst holding shift
 - tweaked the description of the Fletching advancement
 
 Updated
