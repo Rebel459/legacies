@@ -3,6 +3,7 @@ Added
 - Idwtialsimmoedm
 - Held Item Tooltips
 - Durability Tooltip
+- SuperMartijn642's Config Lib
 
 Changed
 
