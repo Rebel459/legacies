@@ -1,0 +1,24 @@
+Changed
+
+- reduced max REI horizontal rows to 7, from 8
+- Trailier Tales' trim duplication recipes now only require 1 diamond, as with vanilla trims
+- only positive effects are now shown in food tooltips
+- stone slabs and stairs now drop cobbled versions when broken without a silk touch pickaxe
+
+Updated
+
+- Fabric API
+- Legacies and Legends
+- Progression Reborn
+- FrozenLib
+- Wilder Wild
+- Trailier Tales
+- Enderscape
+- Balm
+- Better Advancements
+- Biolith
+- Fzzy Config
+- No Resource Pack Warnings
+- Structurify
+- True Ending: Ender Dragon Overhaul
+- Wither's Wrath
