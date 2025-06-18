@@ -1,0 +1,38 @@
+Added
+
+- Comforts
+- Sticky Enchanting Lapis
+- Map Distance Fix
+- SmoothMaps
+- No Input Lag Tick Rate
+- BadOptimisations
+
+Changed
+
+- the Legacies title is no longer cut off in the game credits
+- cooked flesh has been made unattainable
+
+Updated
+
+- Legacies Core
+- Enchants and Expeditions
+- Progression Reborn
+- FrozenLib
+- Biolith
+- Boring Default Game Rules
+- Dynamic FPS
+- Experimentalist
+- Friends&Foes
+- Modpack Update Checker
+- MoreFood
+- NarrusYeetus No Error
+- Simple Discord RPC
+- Structurify
+- Villager Config
+- YetAnotherConfigLib
+
+Removed
+
+- Real Arrow Tip
+- Deselect
+- Harvest XP (Modrinth)
