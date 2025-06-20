@@ -1,0 +1,21 @@
+Added
+
+- C418's Melody (Resource Pack)
+
+Changed
+
+- reset default resource packs
+- updated internal music integration and translations
+- added FancyMenu support to the incompatible world screen
+- removed entity texture features options button on the resource pack screen
+- splash texts no longer appear on the "press to start" screen
+- added fallback dirt block panorama
+
+Updated
+
+- Legacies and Legends
+- Wilder Wild
+- BadOptimizations
+- MMV - Moog's Missing Villages
+- Structurify
+- MoreFood
