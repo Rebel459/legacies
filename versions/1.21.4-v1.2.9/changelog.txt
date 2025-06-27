@@ -1,0 +1,38 @@
+Added
+
+- Consumable Optimizer
+- Nerunia – Ticking Entity Fixer
+
+Changed
+
+- added one-time introductory menu
+- rebalanced Chiseled Enchanting's config
+- maps can now be crafted using ink sacs, instead of compasses
+- fixed the Legacies logo not aligning with the splash texts in all aspect ratios
+
+Advancements
+
+- Friends & Foes and Enderscape mobs now count towards the Monster Hunter advancement
+- Friends & Foes' Wildfire mob now counts towards the Defrost advancement
+
+Updated
+
+- Legacies Core
+- Enchants and Expeditions
+- Legacies and Legends
+- Remnants
+- Trailier Tales
+- Discerning Furnace
+- Entity Culling
+- Experimentalist
+- Fabric Language Kotlin
+- ItemSwapper
+- Map Distance Fix
+- Modpack Update Checker
+- Not Enough Animations
+- Shifting-Wares: VillagerConfig Addon
+- SmoothMaps
+- Structurify
+- Variants&Ventures
+- VillagerConfig
+- Wither's Wrath
