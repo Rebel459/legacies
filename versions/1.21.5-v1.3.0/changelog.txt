@@ -1,0 +1,42 @@
+What's New
+- Spring to Life! Ported to 1.21.5 with all the new features that entails, further enhanced beyond vanilla (eg Sheep variants)
+- Farmer's Delight. A complete expansion to farming and food, feature-complete with full knife integration for all Legacies materials
+- Accessories! A brand-new inventory slot, in which you can equip all-new Rings, Necklaces, Amulets & Totems
+- Sapphire. A new, elusive ore, used to craft Tablets and the Wand
+- Improved Mob AI. Many mobs have been touched up, in both convenient and not so convenient ways that you're bound to notice
+- Advancements! 15 new advancements, alongside tweaks to existing ones
+- Way, way too much more. New structures, loot, QOL features, fixes and so on
+
+Advancements
+- added A Complete Catalogue for taming all cats
+- added Arcane Attunement for crafting a Wand
+- added Best Friends Forever for taming an animal
+- added Imbued Earth for acquiring Sapphire
+- added Monument to the Depths for entering an Ocean Monument
+- added Prison of Elders for defeating an Elder Guardian
+- added A More Civilized Age for collecting every Necklace
+- added Artifacts of Adventure for acquiring an Artifact
+- added Hearty Harvest for planting every crop
+- added Historian for finding every lore book
+- added Lost Dialect for finding any lore book
+- added Overload for breaking an Amulet
+- added Postmortem for activating every Totem
+- added Rings of Power for collecting every Ring
+- added Runic Magic for using a Tablet
+- Beaconator is now a goal (rewards 100xp) rather than a challenge (rewards 500xp)
+- reworked Knives Out to be an Adventure advancement for crafting any knife
+- changed the names or descriptions of some existing advancements
+
+Misc
+
+*Due to the nature of this major update also being a full version port, most changelog sections have been ommitted this update. Furthermore, the amount of changes made is so substantial that I am unable to list them all here, so this update is in fact much larger than this changelog may otherwise imply.*
+- reset player options & the intro popup due to the move to YOSBS
+- the default view and simulation distances are now 20 and 10, from 24 and 12, respectively
+- fps is now uncapped by default
+- music now plays in the End credits
+- updated the End credits
+- improved the effectiveness of armor
+
+Updated
+- ported to 1.21.5
+- updated Fabric Loader to 0.17.0
