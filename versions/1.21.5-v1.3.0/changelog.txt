@@ -31,6 +31,7 @@ Misc
 
 *Due to the nature of this major update also being a full version port, most changelog sections have been ommitted this update. Furthermore, the amount of changes made is so substantial that I am unable to list them all here, so this update is in fact much larger than this changelog may otherwise imply.*
 - reset player options & the intro popup due to the move to YOSBS
+- added the official Legacies SMP to the server menu
 - the default view and simulation distances are now 20 and 10, from 24 and 12, respectively
 - fps is now uncapped by default
 - music now plays in the End credits

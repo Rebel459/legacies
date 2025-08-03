@@ -1,0 +1,6 @@
+Changed
+- added the Legacies SMP Australia server to the server list, alongside the main global Legacies SMP
+- slightly nerfed armor protection (it's still higher than it was in v1.2, don't worry)
+
+Removed
+- Mob AI Tweaks, due to it causing problems on servers

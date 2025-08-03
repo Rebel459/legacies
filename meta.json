@@ -217,6 +217,18 @@
           "generic": "https://discord.com/invite/pixel-dream-studios-872788557553610802"
         }
       }
+    },
+    {
+      "id": "1.21.5-v1.3.1",
+      "updateType": "minor",
+      "releasedAt": 1754230989197,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/legacies",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/legacies-mc",
+          "generic": "https://discord.com/invite/pixel-dream-studios-872788557553610802"
+        }
+      }
     }
   ]
 }
