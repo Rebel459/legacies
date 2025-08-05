@@ -1,0 +1,24 @@
+Added
+- Horseman
+- Sounds (Modrinth)
+- Wither's Wrath
+
+Changed
+- added crop replanting when using hoes
+- new experience formula & enchanting fixes
+- reset resource pack settings due to renaming shader packs
+- added default shaders for Rethinking Voxels & Super Duper Vanilla
+
+Updated
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Remnants
+- Raised
+- Fzzy Config
+
+Removed
+- Chiseled Enchanting
+- Horses Can Float
+- Harder Beds
+- Replanting Crops
