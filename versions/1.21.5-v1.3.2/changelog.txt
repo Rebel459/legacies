@@ -2,9 +2,11 @@ Added
 - Horseman
 - Sounds (Modrinth)
 - Wither's Wrath
+- Simple Voice Chat
 
 Changed
 - added crop replanting when using hoes
+- new experience formula & enchanting fixes
 - reset resource pack settings due to renaming shader packs
 - added default shaders for Rethinking Voxels & Super Duper Vanilla
 
