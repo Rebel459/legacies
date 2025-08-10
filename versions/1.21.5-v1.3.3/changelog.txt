@@ -1,0 +1,28 @@
+Added
+- Mob AI Tweaks
+- Personal Disc Player
+
+Advancements
+- added new Imbued advancement to the Legacies tab for crafting an Imbued Book
+
+Changed
+- improved the effectiveness of protection enchantments
+- disabled No Chat Reports multiplayer menu icons
+- fixed slight offset of the Direct button on the multiplayer menu
+
+Updated
+- Fabric API
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Progression Reborn
+- Carbasa
+- Chat Patches
+- Simple Voice Chat
+- Structurify
+- Substrate
+- Tooltipz
+- VillagerConfig
+
+Removed
+- Portable Jukebox
