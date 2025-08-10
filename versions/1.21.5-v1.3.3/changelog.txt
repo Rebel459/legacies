@@ -1,3 +1,7 @@
+Hotfix
+- updated Enchants and Expeditions
+- fixed crafting & enchanting bugs
+
 Added
 - Mob AI Tweaks
 - Personal Disc Player
