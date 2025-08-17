@@ -12,11 +12,11 @@ Changed
 - disabled C2ME's enforceSafeWorldRandomAccess feature in order to fix some issues
 
 Updated
+- Fabric Loader to 0.17.2
 - Legacies Core
 - Legacies and Legends
 - Biolith
 - Enderscape
-- Fabric Language Kotlin
 - Map Distance Fix
 
 Removed
