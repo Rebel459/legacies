@@ -1,0 +1,24 @@
+Added
+- Soaring Phantoms
+
+Advancements
+- added distinct advancement complete sounds for non-challenge advancements in the Legacies, Overworld, Nether, End & Adventure categories
+- challenge advancements now use a motif from Minecraft Dungeons, whilst the vanilla challenge complete sound is used for the Adventure advancement category
+
+Changed
+- Progression Reborn & End Reborn upgrade templates now have yellow-coloured tooltip borders
+- Hoes now only till the crop being interacted with
+- added support for Echo Shard, Sapphire, Rose Ingot, Crystalline Shard, Remnant Ingot & Featherzeal Ingot trims to the Drift Leggings item texture
+- disabled C2ME's enforceSafeWorldRandomAccess feature in order to fix some issues
+
+Updated
+- Legacies Core
+- Legacies and Legends
+- Biolith
+- Enderscape
+- Fabric Language Kotlin
+- Map Distance Fix
+
+Removed
+- Wither's Wrath
+- Sounds (Modrinth)
