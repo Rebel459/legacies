@@ -1,24 +1,94 @@
+What's New
+- Enchanting overhaul! Craft new bookshelves, construct altars and discover tomes to manipulate the different enchanting attributes and control your pool of enchantments - and use the table on the same item multiple times! I've reimagined the entire enchanting system & most related mechanics
+- Useful Anvils - once again can you combine enchanted equipment as you desire, with new experience costs and no too expensive :)
+- Blessings, Enchantments, Curses - featuring dozens of new & reworked enchantments, curses and the all-new blessings (which can be acquired when using tomes at your enchanting table)
+- Performance & visual improvements! Less stutter, higher framerates, and additional visual effects ensure an improved experience for all systems thanks to modlist changes & shader tweaks
+- 4 new advancements
+- new biome & structure-specific music
+- Ducks
+
 Added
-- Soaring Phantoms
+- Simple Registry Aliases
+- Subtle Effects
+- AsyncParticles
+- Untitled Duck Mod
+- Smooth Skies
+- GeckoLib
+- Ixeris
+- Worldgen Patches
+- StutterFix - Refurbished!
+- Modpack Shipped Servers
+- Supplemental Patches
+- Updating Icon Mod [Modrinth]
+- ReMonitor [Modrinth]
 
 Advancements
-- added distinct advancement complete sounds for non-challenge advancements in the Legacies, Overworld, Nether, End & Adventure categories
-- challenge advancements now use a motif from Minecraft Dungeons, whilst the vanilla challenge complete sound is used for the Adventure advancement category
+- added "The Arts of Magic" to the Legacies tab
+- added "Altar of Everything" to the Adventure Tab
+- added "Expeditioner" to the Adventure tab
+- added "On Thin Ice" to the Overworld tab
+- changed "Like A Feather" to be a Goal
+- removed "Refined Vision"
+- removed "Imbued"
+- slightly lowered the volume of completion sounds for Legacies & Overworld tab advancements
+- disabled unused advancements from Wilder Wild
 
 Changed
-- Progression Reborn & End Reborn upgrade templates now have yellow-coloured tooltip borders
-- Hoes now only till the crop being interacted with
-- added support for Echo Shard, Sapphire, Rose Ingot, Crystalline Shard, Remnant Ingot & Featherzeal Ingot trims to the Drift Leggings item texture
-- disabled C2ME's enforceSafeWorldRandomAccess feature in order to fix some issues
+- updated the default Quality, Balanced & Performance shaderpack presets to r5.6 (and respective Euphoria + Supplemental versions)
+- animated backgrounds are now downloaded at runtime & always blurred, with a static blurred background being used as the fallback
+- animated backgrounds now scale to all gui scales
+- the background toggle is now used for toggling between the 3 different backgrounds rather than for toggling blur
+- removed the Legacies - Linux shader preset due to it being redundant
+- lowered the chance of anvils breaking when used (12% -> 10%)
+- updated credits
+- added "Tutorial technology!" splash text
+- added "Music by F7c82!" splash text
+- disabled modified Ender Dragon healing mechanics
 
 Updated
-- Fabric Loader to 0.17.2
 - Legacies Core
+- Enchants and Expeditions
 - Legacies and Legends
-- Biolith
+- Progression Reborn
+- Item Tooltips
+- FrozenLib
+- Wilder Wild
+- Trailier Tales
 - Enderscape
+- Entity Texture Features
+- BadOptimizations
+- Balm
+- Biolith
+- Bundles Beyond
+- Colorful Containers GUI [Resource Pack]
+- Dyed
+- Fabric Language Kotlin
+- Friends&Foes
+- ImmediatelyFast
+- ItemSwapper
+- Lunar
 - Map Distance Fix
+- Mob AI Tweaks
+- Not Enough Animations
+- Packet Fixer
+- Particle Rain
+- Player Locator Plus
+- Raised
+- Resourceful Config
+- ScalableLux
+- Shifting Wares
+- Simple Music Control
+- Simple Voice Chat
+- SmoothMaps
+- Spyglass Improvements
+- Substrate
+- Tooltipz
+- VillagerConfig
+- SnowyLeavesPlus
+- Fzzy Config
 
 Removed
-- Wither's Wrath
-- Sounds (Modrinth)
+- Configurable Everything
+- JamLib
+- Idwtialsimmoedm
+- Experimentalist
