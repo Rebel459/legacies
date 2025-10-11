@@ -1,1 +1,22 @@
+Advancements
+- renamed Wildfire to Dethroned
+- fixed the name of Expeditioner
+- fixed the title/description of As Above
 
+Changed
+- updated Complementary Shaders (& Euphoria Patches) to r5.6.1 for Legacies' Performance, Balanced & Quality presets
+- added 48 new splash texts (by Rebel459 & CoolPieceOfBread)
+- renamed the splash text "Brought to you by Notch!" to "Made by Notch!"
+- improved animated menus
+- pressing the background toggle now toggles blur once again, rather than cycling through the menus (blur is the new default)
+- updated background music translations
+- World Host menus are no longer blurred
+- disabled Particle Rain's rain & sandstorm haze, and lowered the maximum amount of particles
+- disabled unwanted Subtle Effects features
+- reset player options & active resource packs
+
+Updated
+- Legacies Core
+
+Removed
+- Colourful Containers [Resource Pack]
