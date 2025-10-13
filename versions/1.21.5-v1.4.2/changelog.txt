@@ -1,0 +1,14 @@
+Changed
+- updated credits
+
+Updated
+- Fabric Loader [0.17.3]
+- Enchants and Expeditions
+- Chat Patches
+- Map Distance Fix
+- MMV - Moog's Missing Villages
+- Not Enough Animations
+- True Ending - Ender Dragon Overhaul
+
+Removed
+- Atlas Core
