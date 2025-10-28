@@ -1,0 +1,7 @@
+Changed
+- background music now has a gap between tracks playing, as intended
+
+Updated
+- Legacies and Legends
+- Enchants and Expeditions
+- End Reborn
