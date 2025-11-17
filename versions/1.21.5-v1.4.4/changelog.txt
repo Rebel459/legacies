@@ -1,0 +1,54 @@
+Summary
+- prettier advancement completion popups
+- an upgraded enchanting attribute system
+- various fixes and improvements
+
+Added
+- Fancy Toasts | Better Advancements
+- e4mc
+
+Advancements
+- "Voluntary Exile" now requires the drinking of an Ominous Bottle, rather than simply attaining one
+- slightly lowered the volume of all advancement completion sounds
+
+Changed
+- Vignette is now disabled by default
+- music no longer resets when creating a world for the first time in that instance
+- platinum, platinum sheets and cracked mirrors have been made unobtainable
+
+Updated
+- Fabric Loader [0.18.0]
+- Legacies and Legends
+- Enchants and Expeditions
+- Progression Reborn
+- End Reborn
+- Remnants
+- FrozenLib
+- Wilder Wild
+- AsyncParticles
+- Bundles Beyond
+- CreativeCore
+- Discerning Furnace
+- Entity Culling
+- Fabric Language Kotlin
+- Farmer's Delight Refabricated
+- Forge Config API Port
+- Friends&Foes
+- ItemSwapper
+- Ixeris
+- Mod Menu
+- Not Enough Animations
+- Packet Fixer
+- Particle Rain
+- Puzzles Lib
+- Simple Voice Chat
+- Structure Layout Optimizer
+- Structurify
+- Substrate
+- True Ending - Ender Dragon Overhaul
+- Variants&Ventures
+- YetAnotherConfigLib
+
+Removed
+- Noisium
+- World Host
