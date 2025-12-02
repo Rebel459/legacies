@@ -1,0 +1,19 @@
+Changed
+- rubble shields are now uncraftable, as intended
+
+Updated
+- Fabric Loader [0.18.1]
+- Legacies and Legends
+- Progression Reborn
+- End Reborn
+- Farmer's Knives
+- Entity Texture Features
+- BadOptimizations
+- Chat Patches
+- GPUBooster
+- Ixeris
+- Map Distance Fix
+- MidnightLib
+- Puzzle
+- Structurify
+- WaxedIcons
