@@ -16,6 +16,12 @@ Enchants and Expeditions
 - Full license: https://github.com/Rebel459/enchants-and-expeditions/blob/main/LICENSE
 - Source code: https://github.com/Rebel459/enchants-and-expeditions
 
+Combat Reborn
+
+- Summary: All Rights Reserved assets, LGPL License code
+- Full license: https://github.com/Rebel459/combat-reborn/blob/main/LICENSE
+- Source code: https://github.com/rebel459/combat-reborn
+
 Progression Reborn
 
 - Summary: All Rights Reserved assets, LGPL License code
@@ -39,12 +45,6 @@ Remnants
 - Summary: All Rights Reserved assets, LGPL License code
 - Full license: https://github.com/Rebel459/remnants/blob/main/LICENSE
 - Source code: https://github.com/Rebel459/remnants
-
-Serene Snowlogging
-
-- Summary: All Rights Reserved assets, LGPL License code
-- Full license: https://github.com/Rebel459/serene-snowlogging/blob/main/LICENSE
-- Source code: https://github.com/Rebel459/serene-snowlogging
 
 Rebel459
 https://modrinth.com/user/Rebel459
