@@ -1,0 +1,3 @@
+assets/day.fma filter=lfs diff=lfs merge=lfs -text
+assets/night.fma filter=lfs diff=lfs merge=lfs -text
+assets/rain.fma filter=lfs diff=lfs merge=lfs -text
