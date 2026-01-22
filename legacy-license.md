@@ -34,6 +34,12 @@ End Reborn
 - Full license: https://github.com/Rebel459/end-reborn/blob/main/LICENSE
 - Source code: https://github.com/rebel459/end-reborn
 
+Bloom
+
+- Summary: All Rights Reserved assets, LGPL License code
+- Full license: https://github.com/Rebel459/bloom/blob/main/LICENSE
+- Source code: https://github.com/rebel459/bloom
+
 Fractured
 
 - Summary: All Rights Reserved assets, LGPL License code
