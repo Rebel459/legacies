@@ -12,9 +12,9 @@ Advancements
 - added Threaded (Legacies)
 - added Well-Earned Rest (Legacies)
 - added Adventure Awaits (Legacies)
+- added Quiver Me Timbers (Adventure)
 - added Monsters Hunted (Adventure)
 - added Mob Kabob (Adventure)
 - added Stay Hydrated! (Adventure)
 - removed Sheared (Legacies)
-- fixed Monster Hunter (Adventure)
-- updated advancements for 1.21.11 changes
+- misc changes, fixes and updates to other advancements
