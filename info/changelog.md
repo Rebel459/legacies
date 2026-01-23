@@ -12,6 +12,7 @@ Advancements
 - added Threaded (Legacies)
 - added Well-Earned Rest (Legacies)
 - added Adventure Awaits (Legacies)
+- added Time Teller (Legacies)
 - added Quiver Me Timbers (Adventure)
 - added Monsters Hunted (Adventure)
 - added Mob Kabob (Adventure)
