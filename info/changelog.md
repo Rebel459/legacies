@@ -19,3 +19,13 @@ Advancements
 - added Stay Hydrated! (Adventure)
 - removed Sheared (Legacies)
 - misc changes, fixes and updates to other advancements
+
+Splashes
+- added "Also try Hytale!"
+- added "Rug-good"
+- added "Sleep, Silly!"
+- added "Music by Hyper Potions!"
+- added "One does not simply walk to the Far Lands"
+- added "Released before GTA VI!"
+- renamed "Pumpa kungen!" to "Pumpakungen!"
+- renamed "Legacies is not liable for any computers' self-awareness" to "Legacies is not liable for any computer's self-awareness"
