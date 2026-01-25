@@ -1,3 +1,6 @@
 assets/day.fma filter=lfs diff=lfs merge=lfs -text
 assets/night.fma filter=lfs diff=lfs merge=lfs -text
 assets/rain.fma filter=lfs diff=lfs merge=lfs -text
+resources/packs/day_v3.zip filter=lfs diff=lfs merge=lfs -text
+resources/packs/night_v3.zip filter=lfs diff=lfs merge=lfs -text
+resources/packs/rain_v3.zip filter=lfs diff=lfs merge=lfs -text
