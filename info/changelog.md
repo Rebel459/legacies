@@ -26,11 +26,17 @@ Advancements
 Splashes
 - added "Also try Hytale!"
 - added "Rug-good"
-- added "Sleep, Silly!"
+- added "Sleep, silly!"
 - added "Music by Hyper Potions!"
 - added "One does not simply walk to the Far Lands"
 - added "Released before GTA VI!"
+- added "Legacies 26"
+- added "Adventure awaits!"
 - renamed "Pumpa kungen!" to "Pumpakungen!"
 - renamed "Legacies is not liable for any computers' self-awareness" to "Legacies is not liable for any computer's self-awareness"
+
+Misc
+- added "Legacies" painting by Rebel459
+- added "Adventure Awaits" painting by Rebel459
 
 *Seeing as this is the first release of Legacies 26, there is no detailed changelog below this point. Legacies 26 is the result of many, many hours and months of work, so I do hope you enjoy! And don't worry - any worlds from Legacies 1.21 can be safely upgraded.*
