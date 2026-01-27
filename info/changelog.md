@@ -1,5 +1,7 @@
 **Legacies 26-v1.0**
 
+*Welcome to Legacies 26!*
+
 *Thanks for all your support, and your patience during the long wait leading up to this release.*
 
 What's New
