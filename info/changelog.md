@@ -1,11 +1,14 @@
 **Legacies 26-v1.0**
 
+*Thanks for all your support, and your patience during the long wait leading up to this release.*
+
 What's New
-- text text text text text
-- text text text text text
-- text text text text text
-- text text text text text
-- text text text text text
+- first release of Legacies 26
+- rebuilt for 1.21.11
+- complete custom combat overhaul featuring quivers, reworked shields, new hunger & regeneration systems, and more
+- massive Overworld expansion with 15+ new biomes, vanilla biome overhauls, new flowers, unique cave depth, ore variants & cotton
+- remade menus with all-new visuals & features
+- so much more
 
 Advancements
 - added Cotton Connoisseur (Legacies)
@@ -29,3 +32,5 @@ Splashes
 - added "Released before GTA VI!"
 - renamed "Pumpa kungen!" to "Pumpakungen!"
 - renamed "Legacies is not liable for any computers' self-awareness" to "Legacies is not liable for any computer's self-awareness"
+
+*Seeing as this is the first release of Legacies 26, there is no detailed changelog below this point. Legacies 26 is the result of many, many hours and months of work, so I do hope you enjoy! And don't worry - any worlds from Legacies 1.21 can be safely upgraded.*
