@@ -1,3 +1,15 @@
+**Legacies 26-v1.1**
+
+Changed
+- updated Jungle generation
+- added Palm Trees to Tropical Beaches
+- disabled ground mist
+
+Updated
+- Legacies Core
+- Bloom
+- ImmediatelyFast
+
 **Legacies 26-v1.0**
 
 *Welcome to Legacies 26!*
