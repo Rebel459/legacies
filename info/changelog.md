@@ -3,6 +3,7 @@
 Changed
 - updated Jungle generation
 - added Palm Trees to Tropical Beaches
+- Dahlia can now play in Windswept Jungles
 - disabled ground mist
 
 Updated
