@@ -1,3 +1,24 @@
+**Legacies 26-v1.2**
+
+Changed
+- updated shaders to Complementary r5.7 & Euphoria 1.8.0
+- updated shader settings
+- fixed Wild Cotton not generating
+- disabled birch tree branches
+- updated Instance menu
+- updated credits
+
+Updated
+- Legacies Core
+- Bloom
+- Fast Noise
+- GeckoLib
+- Structurify
+- VO: Better Dogs
+
+Removed
+- Fast Noise (Modrinth)
+
 **Legacies 26-v1.1**
 
 Changed
