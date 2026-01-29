@@ -11,7 +11,6 @@ Changed
 Updated
 - Legacies Core
 - Bloom
-- Fast Noise
 - GeckoLib
 - Structurify
 - VO: Better Dogs
