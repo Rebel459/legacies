@@ -1,3 +1,26 @@
+**Legacies 26-v1.3**
+
+Summary
+- armor system overhaul
+- armor toughness rework
+- portable jukeboxes
+
+Added
+- Personal Disc Player
+- Trinkets Canary Fork (Modrinth)
+- Better Spawn (CurseForge)
+
+Updated
+- Legacies Core
+- Legacies and Legends
+- Enchants and Expeditions
+- Combat Reborn
+- Progression Reborn
+- End Reborn
+- Lithostitched
+- Mob AI Tweaks
+- Structurify
+
 **Legacies 26-v1.2**
 
 Changed
