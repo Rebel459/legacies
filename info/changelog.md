@@ -8,7 +8,6 @@ Summary
 Added
 - Personal Disc Player
 - Trinkets Canary Fork (Modrinth)
-- Better Spawn (CurseForge)
 
 Updated
 - Legacies Core
