@@ -4,7 +4,6 @@ Added
 - Elytra Revamped
 - FlatEdit+
 - BoxLib
-- Better Spawn (CurseForge)
 
 Changed
 - updated shaders to Complementary r5.7.1 & Euphoria 1.8.1
