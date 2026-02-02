@@ -1,9 +1,16 @@
-Legacies Core / Legacies Core CF - Legacy License
+Legacies Core - Legacy License
 𝘊𝘰𝘳𝘦 𝘮𝘰𝘥 𝘪𝘯𝘵𝘦𝘯𝘥𝘦𝘥 𝘧𝘰𝘳 𝘶𝘴𝘦 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘓𝘦𝘨𝘢𝘤𝘪𝘦𝘴 𝘮𝘰𝘥𝘱𝘢𝘤𝘬
 
-- Assets ARR / specific to the relevant rights holder. Assets include anything in the assets/ directory
+Main License
+- Assets ARR / specific to the relevant rights holder. Assets include anything in the assets/ directory, as well as Remote Downloads (see below)
 - All code and code contributions licensed under LGPL-3.0 Only. This includes all code used in the java/ directory
-- explicit permission is granted to all modpacks hosted on either the Modrinth or Curseforge platforms to include this mod within their modpacks
+- permission is granted to all modpacks hosted on either the Modrinth or Curseforge platforms to include this mod within their modpacks
+
+Remote Downloads
+- Assets downloaded remotely by this mod are not part of this mod and are also licensed under ARR, which therefore entails that they are not to be redistributed without explicit permission from their rights holders.
+- On first boot, a "downloads_enabled.txt" file will be created in config/fancymenu/assets/settings.
+- Rename this to "downloads_disabled.txt" to stop remote file downloading (and delete the frozenlib/downloaded_resourcepacks directory afterwards to ensure remote downloads are cleared).
+- This must be done in order to ensure you remain in compliance with the licensing of distributed assets, as Legacies Core contains remote asset downloading functionality.
 
 
 

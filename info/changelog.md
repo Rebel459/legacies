@@ -1,3 +1,37 @@
+**Legacies 26-v1.4**
+
+Added
+- Elytra Revamped
+- FlatEdit+
+- BoxLib
+- Better Spawn (CurseForge)
+
+Changed
+- updated shaders to Complementary r5.7.1 & Euphoria 1.8.1
+- enabled background blur in the menus (configurable in the Instance menu)
+- added missing music translation key for "Open" by Firel
+- tweaked target FPS values in Dynamic FPS' config
+- removed redundant internal Dennis painting datapack
+- fixed bugs with copper tool attributes
+- disabled the on-screen FPS display by default
+- disabled the music track switching keybind by default
+- reset options.txt
+
+Updated
+- Legacies Core
+- Bloom
+- Combat Reborn
+- Progression Reborn
+- e4mc
+- FancyMenu
+- Konkrete
+- Not Enough Animations
+- Polymer
+- Text Placeholder API
+
+Removed
+- Mouse Wheelie
+
 **Legacies 26-v1.3**
 
 Summary
