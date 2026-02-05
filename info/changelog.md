@@ -1,132 +1,57 @@
-**Legacies 26-v1.4**
+**Legacies 26-v2.0**
+
+What's New
+- enchantable Happy Ghast harnesses with new enchantments Soar (fly faster) and Feather Flight (jump off safely, from any height!)
+- use your Shield to unleash shockwaves with the new Blessing of Justice, or blend fire and ice as you attack with Equilibrium
+- slime mini-dungeon features, which spawn throughout caves and challenge you to fight slimes in exchange for exciting loot
+- a ton of new & improved advancements - Collect music discs, discover lore books and more!
+- performance improvements, fixes & QOL additions
 
 Added
-- Elytra Revamped
-- FlatEdit+
-- BoxLib
+- No Chat Restrictions
+- Async Hotbars
+- Smart Particles
+- Slime Minibiome
+- Better Render Distance
+- Better Spawn (CurseForge)
+
+Advancements
+- added Tome-orrow Comes (Adventure)
+- added Duke of Boxes (Adventure)
+- added Farthest Lands (Adventure)
+- added Record Holder (Adventure)
+- added Zombie Doctor (Overworld)
+- added Minecraft (Legacies)
+- moved Altar of Everything from Adventure to Legacies
+- made Monsters Hunted a challenge
+- made Only The Beginning a task
+- updated Adventuring Time requirements
+- edited the description of The End
+- rewrote Lost Dialect, Historian & Only The Beginning
+- fixed Dethroned
+- fixed certain advancements' toasts not displaying
 
 Changed
-- updated shaders to Complementary r5.7.1 & Euphoria 1.8.1
-- enabled background blur in the menus (configurable in the Instance menu)
-- added missing music translation key for "Open" by Firel
-- tweaked target FPS values in Dynamic FPS' config
-- removed redundant internal Dennis painting datapack
-- fixed bugs with copper tool attributes
-- disabled the on-screen FPS display by default
-- disabled the music track switching keybind by default
-- reset options.txt
+- updated shaders to Euphoria 1.8.2
+- tweaked sleeping speed
+- disabled the generation of dying forests
 
 Updated
+- Fabric API
 - Legacies Core
 - Bloom
-- Combat Reborn
-- Progression Reborn
-- e4mc
-- FancyMenu
-- Konkrete
-- Not Enough Animations
-- Polymer
-- Text Placeholder API
-
-Removed
-- Mouse Wheelie
-
-**Legacies 26-v1.3**
-
-Summary
-- armor system overhaul
-- armor toughness rework
-- portable jukeboxes
-
-Added
-- Personal Disc Player
-- Trinkets Canary Fork (Modrinth)
-
-Updated
-- Legacies Core
-- Legacies and Legends
 - Enchants and Expeditions
+- Legacies and Legends
 - Combat Reborn
 - Progression Reborn
 - End Reborn
-- Lithostitched
-- Mob AI Tweaks
-- Structurify
-
-**Legacies 26-v1.2**
-
-Changed
-- updated shaders to Complementary r5.7 & Euphoria 1.8.0
-- updated shader settings
-- fixed Wild Cotton not generating
-- disabled birch tree branches
-- updated Instance menu
-- updated credits
-
-Updated
-- Legacies Core
-- Bloom
-- GeckoLib
-- Structurify
-- VO: Better Dogs
+- Item Tooltips
+- Remnants
+- Fzzy Config
+- Untitled Duck Mod
+- e4mc
+- Immersive Overlays
 
 Removed
-- Fast Noise (Modrinth)
-
-**Legacies 26-v1.1**
-
-Changed
-- updated Jungle generation
-- added Palm Trees to Tropical Beaches
-- Dahlia can now play in Windswept Jungles
-- disabled ground mist
-
-Updated
-- Legacies Core
-- Bloom
-- ImmediatelyFast
-
-**Legacies 26-v1.0**
-
-*Welcome to Legacies 26!*
-
-*Thanks for all your support, and your patience during the long wait leading up to this release.*
-
-What's New
-- first release of Legacies 26
-- rebuilt for 1.21.11
-- complete custom combat overhaul featuring quivers, reworked shields, new hunger & regeneration systems, and more
-- massive Overworld expansion with 15+ new biomes, vanilla biome overhauls, new flowers, unique cave depth, ore variants & cotton
-- remade menus with all-new visuals & features
-- so much more
-
-Advancements
-- added Cotton Connoisseur (Legacies)
-- added Threaded (Legacies)
-- added Well-Earned Rest (Legacies)
-- added Adventure Awaits (Legacies)
-- added Time Teller (Legacies)
-- added Quiver Me Timbers (Adventure)
-- added Monsters Hunted (Adventure)
-- added Mob Kabob (Adventure)
-- added Stay Hydrated! (Adventure)
-- removed Sheared (Legacies)
-- misc changes, fixes and updates to other advancements
-
-Splashes
-- added "Also try Hytale!"
-- added "Rug-good"
-- added "Sleep, silly!"
-- added "Music by Hyper Potions!"
-- added "One does not simply walk to the Far Lands"
-- added "Released before GTA VI!"
-- added "Legacies 26"
-- added "Adventure awaits!"
-- renamed "Pumpa kungen!" to "Pumpakungen!"
-- renamed "Legacies is not liable for any computers' self-awareness" to "Legacies is not liable for any computer's self-awareness"
-
-Misc
-- added "Legacies" painting by Rebel459
-- added "Adventure Awaits" painting by Rebel459
-
-*Seeing as this is the first release of Legacies 26, there is no detailed changelog below this point. Legacies 26 is the result of many, many hours and months of work, so I do hope you enjoy! And don't worry - any worlds from Legacies 1.21 can be safely upgraded.*
+- Underlay
+- Accurate Attack Indicator (Modrinth)
