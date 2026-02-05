@@ -4,7 +4,7 @@ What's New
 - enchantable Happy Ghast harnesses with new enchantments Soar (fly faster) and Feather Flight (jump off safely, from any height!)
 - use your Shield to unleash shockwaves with the new Blessing of Justice, or blend fire and ice as you attack with Equilibrium
 - slime mini-dungeon features, which spawn throughout caves and challenge you to fight slimes in exchange for exciting loot
-- a ton of new & improved advancements - Collect music discs, discover lore books and more!
+- a ton of new & improved advancements - collect music discs, discover lore books and more!
 - performance improvements, fixes & QOL additions
 
 Added
