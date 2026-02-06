@@ -1,3 +1,36 @@
+**Legacies 26-v2.1**
+
+Added
+- Trim Patcher
+
+Advancements
+- added Treasured Tales (Overworld)
+- moved Fishy Business to Overworld
+- fixed the icon of Record Holder
+
+Changed
+- updated shaders to Euphoria 1.8.4
+- fishing loot improvements
+- rebalanced elytra campfire mechanics
+- made villages slightly rarer
+- updated default keybinds
+- reset options.txt
+
+Updated
+- Fabric Language Kotlin
+- Legacies Core
+- Combat Reborn
+- Progression Reborn
+- Enchants and Expeditions
+- Remnants
+- Fancy Toasts | Better Advancements
+- Locator Lodestones
+- Particle Core
+
+Removed
+- Sea Life
+- YOSBR
+
 **Legacies 26-v2.0**
 
 What's New
