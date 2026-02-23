@@ -1,3 +1,53 @@
+**Legacies 26-v2.2**
+
+Added
+- Unified API
+- Better Spawn
+- Fast Noise
+- Helium (Modrinth)
+- Gnetum
+- Sodium Shadowy Path Blocks
+- InvMove
+- InvMoveCompats
+- Rewithered
+
+Changed
+- added No More Map Markers resource pack
+- updated shaders to Euphoria 1.8.6
+- attack indicator is no longer shown when breaking blocks
+- fixed / overhauled wandering trader trades
+- fixed slime zone loot having dyed chainmail armor
+- fixed block breaking textures not appearing when shaders are disabled
+- enabled anisotropic filtering
+- disabled vignette
+- reset options.txt
+- reset fabric_default_resource_packs.json
+
+Updated
+- Legacies Core
+- Bloom
+- Combat Reborn
+- Enchants and Expeditions
+- Legacies and Legends
+- Remnants
+- Trinkets Canary Fork
+- Async Hotbars
+- Better Render Distance
+- e4mc
+- Farmer's Delight Refabricated
+- Illager Invasion
+- Ixeris
+- Lithium
+- Not Enough Animations
+- Puzzles Lib
+- Simple Voice Chat
+- Smooth Skies
+- SmoothMaps
+
+Removed
+- NoisiumForked
+- Visual Snowy Leaves
+
 **Legacies 26-v2.1**
 
 Added
