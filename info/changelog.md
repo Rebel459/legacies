@@ -1,3 +1,57 @@
+**Legacies 26-v2.3**
+
+Added
+- Visual Snowy Leaves
+- Wakes
+- Vesper's Compatibility Compendium
+- Evening Star Lib
+- Better Block Entities
+- FPS-Sync
+- Supplemental Patches
+
+Changed
+- updated shaders to use Supplemental 0.8.0-beta
+- rebalanced & fixed armor damage reduction formula
+- enabled chunk fading
+- reset options.txt
+
+Updated
+- Legacies Core
+- Combat Reborn
+- Enchants and Expeditions
+- Better Spawn
+- Enchanted's Sodium Options
+- Helium
+- Iris Shaders
+- Sodium
+- Variants&Ventures
+- Wilder Wild
+- Concurrent Chunk Management Engine
+- Fast Noise
+- Friends&Foes
+- Geckolib
+- Immersive Overlays
+- Ixeris
+- Locator Lodestones
+- Map Distance Fix
+- Portfolio
+- Structurify
+- Vesper's Compatibility Compendium
+- Armor Stand Arms
+- Better Render Distance
+- Cardinal Components API
+- Fletching Recipe
+- Friends&Foes
+- GlitchCore
+- Gnetum
+- ItemSwapper
+- Lithium
+- Lithostitched
+- Particle Rain
+- Searchables
+- Structurify
+- Balm
+
 **Legacies 26-v2.2**
 
 Added
