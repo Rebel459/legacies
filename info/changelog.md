@@ -5,7 +5,7 @@ Added
 - Shifting Wares: VillagerConfig Addon
 
 Changed
-- modified particle rain config to fix visual issues and improve performance
+- modified Particle Rain config to fix visual issues and improve performance
 - fixed Sleeping Bags rendering as Beds when placed
 - tweaked structure sets
 - enabled Supplemental Patches' internal resource pack
