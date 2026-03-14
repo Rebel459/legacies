@@ -25,7 +25,6 @@ Updated
 - Iris Shaders
 - Sodium
 - Variants&Ventures
-- Wilder Wild
 - Concurrent Chunk Management Engine
 - Fast Noise
 - Friends&Foes
