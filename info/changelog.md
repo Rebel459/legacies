@@ -1,3 +1,25 @@
+**Legacies 26-v2.4**
+
+Added
+- Shifting Wares
+- Shifting Wares: VillagerConfig Addon
+
+Changed
+- modified particle rain config to fix visual issues and improve performance
+- fixed Sleeping Bags rendering as Beds when placed
+- tweaked structure sets
+- enabled Supplemental Patches' internal resource pack
+- reset options.txt
+- reset fabric_default_resource_packs.json
+
+Updated
+- Legacies Core
+- Legacies and Legends
+- Untitled Duck Mod
+
+Removed
+- Gnetum
+
 **Legacies 26-v2.3**
 
 Added
