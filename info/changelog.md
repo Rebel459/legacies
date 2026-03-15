@@ -9,8 +9,8 @@ Changed
 - fixed Sleeping Bags rendering as Beds when placed
 - tweaked structure sets
 - enabled Supplemental Patches' internal resource pack
+- reset default resource packs
 - reset options.txt
-- reset fabric_default_resource_packs.json
 
 Updated
 - Legacies Core
@@ -95,8 +95,8 @@ Changed
 - fixed block breaking textures not appearing when shaders are disabled
 - enabled anisotropic filtering
 - disabled vignette
+- reset default resource packs
 - reset options.txt
-- reset fabric_default_resource_packs.json
 
 Updated
 - Legacies Core
