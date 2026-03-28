@@ -1,3 +1,55 @@
+**Legacies 26-v2.5**
+
+Added
+- Lomka
+- Borderless Mining Updated
+- Dimension Leak Fix
+- Armor Stand Overhaul
+
+Changed
+- Clouds now default to enabled when shaders are disabled
+- disabled Friends&Foes' copper button recipes
+- disabled The Copperier Age's copper retextures resource pack
+- reset default resource packs
+
+Updated
+- Fabric Loader (0.18.4 -> 0.18.5)
+- Legacies Core
+- Balm
+- Chat Patches
+- CraterLib
+- Enchanted's Sodium Options
+- Entity Culling
+- Fabric Language Kotlin
+- Fast Noise
+- Immersive Overlays
+- Iris Shaders
+- ItemSwapper
+- Ixeris
+- Locator Lodestones
+- Map Distance Fix
+- Mod Menu
+- More Axolotl Variants API
+- Not Enough Animations
+- Particle Rain
+- PneumonoCore
+- Puzzles Lib
+- Resourceful Config
+- Searchables
+- Simple Discord RPC
+- Simple Voice Chat
+- Sodium
+- Spark
+- Structurify
+- Subtle Effects
+- The Copperier Age
+- Visuality
+
+Removed
+- Cubes Without Borders
+- Armor Stand Arms
+- WaxedIcons
+
 **Legacies 26-v2.4**
 
 Added
