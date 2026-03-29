@@ -1,5 +1,8 @@
 **Legacies 26-v2.5**
 
+Hotfix v2.5.1
+- removed Lomka
+
 Added
 - Lomka
 - Borderless Mining Updated
