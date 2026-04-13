@@ -1,3 +1,44 @@
+**Legacies 26-v2.6**
+
+Added
+- Cubes Without Borders
+- Elytra Contrails Mod
+- Auto GUI Scale
+
+Changed
+- reduced the frequency of shooting stars
+- changed the direction of clouds to match vanilla
+- fixed Stone Chests rendering incorrectly
+- wind no longer influences cloud direction when shaders are disabled
+- disabled TCA's copper tooltip changes
+
+Updated
+- Fabric Loader (0.18.5 -> 0.19.1)
+- Legacies Core
+- Unified API
+- Combat Reborn
+- Progression Reborn
+- Balm
+- Better Advancements
+- Bundles Beyond
+- Collective
+- Debugify
+- Dynamic FPS
+- e4mc
+- Entity Culling
+- Fast Noise
+- ItemSwapper
+- Ixeris
+- Not Enough Animations
+- Particle Rain
+- PneumonoCore
+- Simple Voice Chat
+- Stormie's Spiders
+- Structurify
+
+Removed
+- Borderless Mining Updated
+
 **Legacies 26-v2.5**
 
 Hotfix v2.5.1
