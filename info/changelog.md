@@ -4,6 +4,7 @@ Added
 - Cubes Without Borders
 - Elytra Contrails Mod
 - Auto GUI Scale
+- Advanced Loot Info
 
 Changed
 - reduced the frequency of shooting stars
