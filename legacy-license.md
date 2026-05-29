@@ -10,6 +10,12 @@ Legacies and Legends
 - Full license: https://github.com/Rebel459/legacies-and-legends/blob/main/LICENSE
 - Source code: https://github.com/Rebel459/legacies-and-legends
 
+Music and Melody
+
+- Summary: All Rights Reserved assets, LGPL License code
+- Full license: https://github.com/Rebel459/music-and-melody/blob/main/LICENSE
+- Source code: https://github.com/Rebel459/music-and-melody
+
 Enchants and Expeditions
 
 - Summary: All Rights Reserved assets, LGPL License code
