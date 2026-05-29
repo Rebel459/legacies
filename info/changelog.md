@@ -1,312 +1,53 @@
-**Legacies 26-v2.6**
-
-Added
-- Cubes Without Borders
-- Elytra Contrails Mod
-- Auto GUI Scale
-- Advanced Loot Info
-
-Changed
-- reduced the frequency of shooting stars
-- changed the direction of clouds to match vanilla
-- fixed Stone Chests rendering incorrectly
-- wind no longer influences cloud direction when shaders are disabled
-- disabled TCA's copper tooltip changes
-
-Updated
-- Fabric Loader (0.18.5 -> 0.19.1)
-- Legacies Core
-- Unified API
-- Combat Reborn
-- Progression Reborn
-- Balm
-- Better Advancements
-- Bundles Beyond
-- Collective
-- Debugify
-- Dynamic FPS
-- e4mc
-- Entity Culling
-- Fast Noise
-- ItemSwapper
-- Ixeris
-- Not Enough Animations
-- Particle Rain
-- PneumonoCore
-- Simple Voice Chat
-- Stormie's Spiders
-- Structurify
-
-Removed
-- Borderless Mining Updated
-
-**Legacies 26-v2.5**
-
-Hotfix v2.5.1
-- removed Lomka
-
-Added
-- Lomka
-- Borderless Mining Updated
-- Dimension Leak Fix
-- Armor Stand Overhaul
-
-Changed
-- Clouds now default to enabled when shaders are disabled
-- disabled Friends&Foes' copper button recipes
-- disabled The Copperier Age's copper retextures resource pack
-- reset default resource packs
-
-Updated
-- Fabric Loader (0.18.4 -> 0.18.5)
-- Legacies Core
-- Balm
-- Chat Patches
-- CraterLib
-- Enchanted's Sodium Options
-- Entity Culling
-- Fabric Language Kotlin
-- Fast Noise
-- Immersive Overlays
-- Iris Shaders
-- ItemSwapper
-- Ixeris
-- Locator Lodestones
-- Map Distance Fix
-- Mod Menu
-- More Axolotl Variants API
-- Not Enough Animations
-- Particle Rain
-- PneumonoCore
-- Puzzles Lib
-- Resourceful Config
-- Searchables
-- Simple Discord RPC
-- Simple Voice Chat
-- Sodium
-- Spark
-- Structurify
-- Subtle Effects
-- The Copperier Age
-- Visuality
-
-Removed
-- Cubes Without Borders
-- Armor Stand Arms
-- WaxedIcons
-
-**Legacies 26-v2.4**
-
-Added
-- Shifting Wares
-- Shifting Wares: VillagerConfig Addon
-
-Changed
-- modified Particle Rain config to fix visual issues and improve performance
-- fixed Sleeping Bags rendering as Beds when placed
-- tweaked structure sets
-- enabled Supplemental Patches' internal resource pack
-- reset default resource packs
-- reset options.txt
-
-Updated
-- Legacies Core
-- Legacies and Legends
-- Untitled Duck Mod
-
-Removed
-- Gnetum
-
-**Legacies 26-v2.3**
-
-Added
-- Visual Snowy Leaves
-- Wakes
-- Vesper's Compatibility Compendium
-- Evening Star Lib
-- Better Block Entities
-- FPS-Sync
-- Supplemental Patches
-
-Changed
-- updated shaders to use Supplemental 0.8.0-beta
-- rebalanced & fixed armor damage reduction formula
-- enabled chunk fading
-- reset options.txt
-
-Updated
-- Legacies Core
-- Combat Reborn
-- Enchants and Expeditions
-- Better Spawn
-- Enchanted's Sodium Options
-- Helium
-- Iris Shaders
-- Sodium
-- Variants&Ventures
-- Concurrent Chunk Management Engine
-- Fast Noise
-- Friends&Foes
-- Geckolib
-- Immersive Overlays
-- Ixeris
-- Locator Lodestones
-- Map Distance Fix
-- Portfolio
-- Structurify
-- Vesper's Compatibility Compendium
-- Armor Stand Arms
-- Better Render Distance
-- Cardinal Components API
-- Fletching Recipe
-- Friends&Foes
-- GlitchCore
-- Gnetum
-- ItemSwapper
-- Lithium
-- Lithostitched
-- Particle Rain
-- Searchables
-- Structurify
-- Balm
-
-**Legacies 26-v2.2**
-
-Added
-- Unified API
-- Better Spawn
-- Fast Noise
-- Helium (Modrinth)
-- Gnetum
-- Sodium Shadowy Path Blocks
-- InvMove
-- InvMoveCompats
-- Rewithered
-
-Changed
-- added No More Map Markers resource pack
-- updated shaders to Euphoria 1.8.6
-- attack indicator is no longer shown when breaking blocks
-- fixed / overhauled wandering trader trades
-- fixed slime zone loot having dyed chainmail armor
-- fixed block breaking textures not appearing when shaders are disabled
-- enabled anisotropic filtering
-- disabled vignette
-- reset default resource packs
-- reset options.txt
-
-Updated
-- Legacies Core
-- Bloom
-- Combat Reborn
-- Enchants and Expeditions
-- Legacies and Legends
-- Remnants
-- Trinkets Canary Fork
-- Async Hotbars
-- Better Render Distance
-- e4mc
-- Farmer's Delight Refabricated
-- Illager Invasion
-- Ixeris
-- Lithium
-- Not Enough Animations
-- Puzzles Lib
-- Simple Voice Chat
-- Smooth Skies
-- SmoothMaps
-
-Removed
-- NoisiumForked
-- Visual Snowy Leaves
-
-**Legacies 26-v2.1**
-
-Added
-- Trim Patcher
-
-Advancements
-- added Treasured Tales (Overworld)
-- moved Fishy Business to Overworld
-- fixed the icon of Record Holder
-
-Changed
-- updated shaders to Euphoria 1.8.4
-- fishing loot improvements
-- rebalanced elytra campfire mechanics
-- made villages slightly rarer
-- updated default keybinds
-- reset options.txt
-
-Updated
-- Fabric Language Kotlin
-- Legacies Core
-- Combat Reborn
-- Progression Reborn
-- Enchants and Expeditions
-- Remnants
-- Fancy Toasts | Better Advancements
-- Locator Lodestones
-- Particle Core
-
-Removed
-- Sea Life
-- YOSBR
-
-**Legacies 26-v2.0**
+**Legacies 26-v3.0**
 
 What's New
-- enchantable Happy Ghast harnesses with new enchantments Soar (fly faster) and Feather Flight (jump off safely, from any height!)
-- use your Shield to unleash shockwaves with the new Blessing of Justice, or blend fire and ice as you attack with Equilibrium
-- slime mini-dungeon features, which spawn throughout caves and challenge you to fight slimes in exchange for exciting loot
-- a ton of new & improved advancements - collect music discs, discover lore books and more!
-- performance improvements, fixes & QOL additions
-
-Added
-- No Chat Restrictions
-- Async Hotbars
-- Smart Particles
-- Slime Minibiome
-- Better Render Distance
-- Better Spawn (CurseForge)
-
-Advancements
-- added Tome-orrow Comes (Adventure)
-- added Duke of Boxes (Adventure)
-- added Farthest Lands (Adventure)
-- added Record Holder (Adventure)
-- added Zombie Doctor (Overworld)
-- added Minecraft (Legacies)
-- moved Altar of Everything from Adventure to Legacies
-- made Monsters Hunted a challenge
-- made Only The Beginning a task
-- updated Adventuring Time requirements
-- edited the description of The End
-- rewrote Lost Dialect, Historian & Only The Beginning
-- fixed Dethroned
-- fixed certain advancements' toasts not displaying
+- Legacies is now on 26.1!
+- Jeweling system alongside overhauled Wands, with 10 unique Gems to collect and combine
+- crashed meteors and throwable glow sticks!
+- major enchanting system additions, including a use for Chiseled Bookshelves and enhanced slot systems and tooltips
+- 4 new blessings, 3 new enchantments and a new curse
+- a new biome - the Lavender Fields!
+- the Map Atlas is here!
+- overhaul of the Hook
+- combat tweaks
+- improved tooltips
+- full in-game Playlist, with dozens of albums and heavily controllable playback
+- full in-game Friends & Multiplayer, with peer-to-peer support (based on 26.2 and other upcoming vanilla features)
+- tons of balance changes, reworks and QOL
+- overhauled late-game gear balance (full rebalancing / more interesting gameplay design for Remnant, Netherite & Featherzeal)
+- improved structures. Enjoy new Desert Pyramids, Jungle Temples and Ocean Monuments
+- as always, these are just random highlights - there's so much more :)
 
 Changed
-- updated shaders to Euphoria 1.8.2
-- tweaked sleeping speed
-- disabled the generation of dying forests
+- updated shaders to Complementary r5.8.1 + Euphoria r1.9.2
+- lowered the GUI scale of menus by 1
+- added new Playlist & Friends buttons to menus, in addition to other menu changes
+- animated menu backgrounds are now higher quality, no longer require remote downloads and have interactive effects
+- reset player options and resource packs, obviously (what else were you expecting jumping from 1.21.11 -> 26.1?)
+- updated credits
+- a lot. As a new MC version, this changelog has been cut incredibly short for my sanity, and because a proper changelog between an official MC release isn't particularly realistic
 
-Updated
-- Fabric API
-- Legacies Core
-- Bloom
-- Enchants and Expeditions
-- Legacies and Legends
-- Combat Reborn
-- Progression Reborn
-- End Reborn
-- Item Tooltips
-- Remnants
-- Fzzy Config
-- Untitled Duck Mod
-- e4mc
-- Immersive Overlays
+Advancements
+- Chiseled (Legacies)
+- added Bejeweled (Adventure)
+- added Gem Collector (Adventure)
+- added Bucketed (Adventure)
+- added Fallen and Forgotten (Overworld)
+- Like A Feather now only triggers if a Boomerang was actually thrown
+- renamed Chambers and Challenges to Minecraft: Trial(s) Edition
 
-Removed
-- Underlay
-- Accurate Attack Indicator (Modrinth)
+Splashes
+- added "Music by fingerspit!"
+- added "Music by Jorclai!"
+- added "Music by Antimo & Welles!"
+- added "Music by Shauny Jang!"
+- added "Music by Johan Johnson!"
+- added "The update that took forever!"
+- added "Super Duper Original: Ultra Deluxe"
+- added "This is a splash text!"
+- added "Wither Storm not included"
+- added "Falling from the sky!"
+- added "What's on the other side of that portal?"
+- added "As above, so below"
+- added "0 + 0 + 7"
+- updated "Java 16 + 1 + 4 = 21!" to "Java 16 + 1 + 4 * 2 = 25!"
