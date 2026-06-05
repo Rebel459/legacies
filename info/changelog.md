@@ -1,3 +1,66 @@
+**Legacies 26-v3.1**
+
+Added
+- Client Sort
+- Auto GUI Scale
+- Spyglass Improvements
+- InvMove
+- Moog's Structure Lib
+- Simple Atlas
+- Notes
+
+Advancements
+- added An Adequate Atlas (Legacies)
+
+Changed
+- improved performance
+- made Ocean Monuments rarer, now matching the originally-intended rarity
+- removed Friends icon from Server tab
+- added menu integration with Replay Mod
+- enabled missing Bits & Balance album
+- removed duplicate Fractured Eye loot entry from Dungeon loot chests
+- disabled Lodestone-relative Compass coordinates
+- fixed Wild Cotton not generating
+- fixed chunk borders and entity hitboxes not working with reduced debug info
+- fixed Hanging Tendrils rendering incorrectly
+- reset options.txt
+
+Updated
+- Fabric Loader to 0.19.3
+- Legacies Core
+- Bloom
+- Legacies and Legends
+- Advanced Loot Info
+- Auto Reauth
+- Bits and Balance
+- Concurrent Chunk Management Engine
+- Controlling
+- Critters and Companions
+- Cubes Without Borders
+- Dasik Library
+- Fabric Language Kotlin
+- Fast Noise
+- Fletching Recipe
+- Immersive Overlays
+- Ixeris
+- JEI Worldgen
+- libIPN
+- Lithium
+- Moog's Missing Villages
+- Puzzles Lib
+- Reliable Remover
+- Reliable Replacer
+- Variants&Ventures
+- Warband
+- YetAnotherConfigLib
+
+Removed
+- Salt's Animal Farm
+- Nemo's Inventory Sorting
+- Ok Zoomer
+- ItemSwapper
+- Ultimate Map Atlases
+
 **Legacies 26-v3.0**
 
 What's New
@@ -18,17 +81,8 @@ What's New
 - improved structures. Enjoy new Desert Pyramids, Jungle Temples and Ocean Monuments
 - as always, these are just random highlights - there's so much more :)
 
-Changed
-- updated shaders to Complementary r5.8.1 + Euphoria r1.9.2
-- lowered the GUI scale of menus by 1
-- added new Playlist & Friends buttons to menus, in addition to other menu changes
-- animated menu backgrounds are now higher quality, no longer require remote downloads and have interactive effects
-- reset player options and resource packs, obviously (what else were you expecting jumping from 1.21.11 -> 26.1?)
-- updated credits
-- a lot. As a new MC version, this changelog has been cut incredibly short for my sanity, and because a proper changelog between an official MC release isn't particularly realistic
-
 Advancements
-- Chiseled (Legacies)
+- added Chiseled (Legacies)
 - added Bejeweled (Adventure)
 - added Gem Collector (Adventure)
 - added Bucketed (Adventure)
@@ -51,3 +105,12 @@ Splashes
 - added "As above, so below"
 - added "0 + 0 + 7"
 - updated "Java 16 + 1 + 4 = 21!" to "Java 16 + 1 + 4 * 2 = 25!"
+
+Changed
+- updated shaders to Complementary r5.8.1 + Euphoria r1.9.2
+- lowered the GUI scale of menus by 1
+- added new Playlist & Friends buttons to menus, in addition to other menu changes
+- animated menu backgrounds are now higher quality, no longer require remote downloads and have interactive effects
+- reset player options and resource packs, obviously (what else were you expecting jumping from 1.21.11 -> 26.1?)
+- updated credits
+- a lot. As a new MC version, this changelog has been cut incredibly short for my sanity, and because a proper changelog between an official MC release isn't particularly realistic
