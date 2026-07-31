@@ -1,3 +1,109 @@
+**Legacies 26-v3.2**
+
+Added
+- Volume Fix
+- Iris & Oculus Search
+- Bundled
+- Mixson
+- e4mc
+- Faster Iris Shadow Mapper
+
+Advancements
+- added the Dog Music Disc to the requirements of "Record Holder"
+
+Changed
+- re-enabled menu background blur
+- fixed floating Nether ore veins
+- fixed issues with the world backup / upgrade screen
+- reduced the biome space taken up by Rainforests
+- substantially reduced the generation frequency of silk cocoons
+- fixed buggy chiseled block crafting recipes
+- fixed Shulkers crashing the game
+- fixed broken entries in True Ending's music pools
+- fixed waterlogged blocks not un-waterlogging
+- other misc changes
+- reset & updated options.txt
+
+Updated
+- Legacies Core
+- Bloom
+- Enchants and Expeditions
+- End Reborn
+- Legacies and Legends
+- Music and Melody
+- Unified API
+- Progression Reborn
+- Elytra Revamped
+- Advanced Loot Info
+- Advancements Reloaded
+- AppleSkin
+- Aquarius Libs
+- Auto GUI Scale
+- Balm
+- Better Days
+- Bits and Balance
+- Bundles Beyond
+- Carbasa
+- Chat Patches
+- Client Sort
+- Collective
+- Concurrent Chunk Management Engine
+- Critters and Companions
+- Cubes Without Borders
+- Custom Credits
+- Dasik Library
+- Elytra Contrails Mod
+- Enchanted's Sodium Options
+- Entity Culling
+- Fabric API
+- Fabric Language Kotlin
+- FancyMenu
+- Farmer's Delight Refabricated
+- Fast Noise
+- Forge Config API Port
+- Geckolib
+- Held Item Tooltips
+- ImmediatelyFast
+- Immersive Overlays
+- InvMove
+- Ixeris
+- JEI / REI / EMI WorldGen
+- Just Enough Items
+- libIPN
+- Lithium
+- Lithostitched
+- Locator Lodestones
+- Map Distance Fix
+- MMV - Moog's Missing Villages
+- Mod Menu
+- Moog's Structure Lib
+- More Axolotl Variants API
+- Not Enough Animations
+- Offline Mode Fix
+- PingDisplay
+- Portfolio
+- Puzzles Lib
+- Resource Trimmer
+- Rewithered
+- Searchables
+- Simple Discord RPC
+- Simple Voice Chat
+- Soaring Phantoms
+- spark
+- Stormie's Spiders
+- Structurify
+- Stylish Effects
+- Swinging Lanterns
+- The Copperier Age
+- Underground Rivers
+- VO: Better Dogs
+- Warband
+- YetAnotherConfigLib
+
+Removed
+- Bundle Weight, There's More!
+- Bundle Weight, There's Four!
+
 **Legacies 26-v3.1**
 
 Added
