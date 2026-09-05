@@ -1,222 +1,105 @@
-**Legacies 26-v3.2**
+**Legacies 26-v4.0**
+
+What's New
+- Chaos Cubed! Explore the Sulfur Caves, collect Sulfur Cubes and build with all-new blocks
+- The Dappled Forest. A brand-new biome, alongside cushions, wool & concrete slabs & stairs and more
+- Camps & Maps. Discover Abandoned Camps (and Straw Beds!) and enjoy using reworked maps with new textures and navigation features
+- End, Extended. Various additions and improvements to the End dimension including End Havens, void features and vastly-improved visuals
+- Music & Melody. An overhauled Music Player that allows you to easily play, install and configure music whenever you wish, in addition to a plethora of new background music
+- The Screenshot Gallery. Far more capable screenshots accompanied by an in-game gallery
+- Advancements, Improved. 5 new advancements are joined by a complete advancment interface layout overhaul
+- and more! A ton of smaller additions, new splash texts and of course additional fixes & improvements
 
 Added
-- Volume Fix
-- Iris & Oculus Search
-- Bundled
-- Mixson
-- e4mc
-- Faster Iris Shadow Mapper
+- Drops Backport
+- Longview
+- Bathymetry
+- Reliable Advancements
+- Supplemental Patches
+- Surface Particles
+- Better MC Screenshots
 
 Advancements
-- added the Dog Music Disc to the requirements of "Record Holder"
+- added "Uh Oh" (Overworld)
+- added "Time Capsule" (End)
+- added "The Last Resort" (End)
+- added "Refuge" (Overworld)
+- added "Abandoned Adventurer" (Overworld)
+- updated "Adventuring Time" requirements
+
+Splashes
+- added "Music by Aversial!"
+- added "Music by Joabi!"
+- added "Have some faith :)"
+- added "The Archives await you!"
+- added "The update that took forever..."
+- added "The cube trifecta!"
+- added "I am... a splash text"
+- added "And I am... Steve!"
+- added "I'm running out of ideas over here"
+- added "Waiting for Minecraft Dungeons 2..."
+- added "Sniffin' the Sift"
+- removed "Hi, [country]!" splashes
 
 Changed
-- re-enabled menu background blur
-- fixed floating Nether ore veins
-- fixed issues with the world backup / upgrade screen
-- reduced the biome space taken up by Rainforests
-- substantially reduced the generation frequency of silk cocoons
-- fixed buggy chiseled block crafting recipes
-- fixed Shulkers crashing the game
-- fixed broken entries in True Ending's music pools
-- fixed waterlogged blocks not un-waterlogging
-- other misc changes
-- reset & updated options.txt
+- updated shaders to Complementary r5.9 + Euphoria 1.10.0 + Supplemental 1.0.1
+- tweaked shader settings
+- updated menu icons for the addition of the Screenshot Gallery and removal of the Friends page
+- fixed inventory-open flicker
+- updated credits
+- reset fabric_default_resource_packs.json
+- reset options.txt
 
 Updated
+- Fabric Loader to 0.19.5
 - Legacies Core
 - Bloom
-- Enchants and Expeditions
+- Combat Reborn
 - End Reborn
 - Legacies and Legends
 - Music and Melody
-- Unified API
 - Progression Reborn
-- Elytra Revamped
-- Advanced Loot Info
-- Advancements Reloaded
-- AppleSkin
-- Aquarius Libs
+- Unified API
 - Auto GUI Scale
 - Balm
-- Better Days
 - Bits and Balance
-- Bundles Beyond
-- Carbasa
-- Chat Patches
-- Client Sort
-- Collective
 - Concurrent Chunk Management Engine
-- Critters and Companions
-- Cubes Without Borders
-- Custom Credits
 - Dasik Library
-- Elytra Contrails Mod
-- Enchanted's Sodium Options
-- Entity Culling
-- Fabric API
-- Fabric Language Kotlin
+- Drippy Loading Screen
+- Elyta Contrails Mod
+- Enderscape
+- Factory API
 - FancyMenu
 - Farmer's Delight Refabricated
-- Fast Noise
-- Forge Config API Port
-- Geckolib
-- Held Item Tooltips
-- ImmediatelyFast
+- Friends&Foes
 - Immersive Overlays
-- InvMove
+- Iris & Oculus Search
+- Iris Shaders
 - Ixeris
 - JEI / REI / EMI WorldGen
 - Just Enough Items
 - libIPN
-- Lithium
 - Lithostitched
-- Locator Lodestones
-- Map Distance Fix
-- MMV - Moog's Missing Villages
-- Mod Menu
+- Locator Colors
 - Moog's Structure Lib
-- More Axolotl Variants API
-- Not Enough Animations
-- Offline Mode Fix
-- PingDisplay
+- MRU
+- No Chat Restrictions
 - Portfolio
 - Puzzles Lib
-- Resource Trimmer
-- Rewithered
-- Searchables
-- Simple Discord RPC
-- Simple Voice Chat
-- Soaring Phantoms
-- spark
-- Stormie's Spiders
-- Structurify
-- Stylish Effects
-- Swinging Lanterns
-- The Copperier Age
-- Underground Rivers
-- VO: Better Dogs
-- Warband
-- YetAnotherConfigLib
-
-Removed
-- Bundle Weight, There's More!
-- Bundle Weight, There's Four!
-
-**Legacies 26-v3.1**
-
-Added
-- Client Sort
-- Auto GUI Scale
-- Spyglass Improvements
-- InvMove
-- Moog's Structure Lib
-- Simple Atlas
-- Notes
-
-Advancements
-- added An Adequate Atlas (Legacies)
-
-Changed
-- improved performance
-- made Ocean Monuments rarer, now matching the originally-intended rarity
-- removed Friends icon from Server tab
-- added menu integration with Replay Mod
-- enabled missing Bits & Balance album
-- removed duplicate Fractured Eye loot entry from Dungeon loot chests
-- disabled Lodestone-relative Compass coordinates
-- fixed Wild Cotton not generating
-- fixed chunk borders and entity hitboxes not working with reduced debug info
-- fixed Hanging Tendrils rendering incorrectly
-- reset options.txt
-
-Updated
-- Fabric Loader to 0.19.3
-- Legacies Core
-- Bloom
-- Legacies and Legends
-- Advanced Loot Info
-- Auto Reauth
-- Bits and Balance
-- Concurrent Chunk Management Engine
-- Controlling
-- Critters and Companions
-- Cubes Without Borders
-- Dasik Library
-- Fabric Language Kotlin
-- Fast Noise
-- Fletching Recipe
-- Immersive Overlays
-- Ixeris
-- JEI Worldgen
-- libIPN
-- Lithium
-- Moog's Missing Villages
-- Puzzles Lib
 - Reliable Remover
-- Reliable Replacer
-- Variants&Ventures
-- Warband
-- YetAnotherConfigLib
+- Rewithered
+- Simple Music Control
+- Simple Voice Chat
+- Smooth Skies
+- Sodium
+- Sodium Extra
+- Structurify
+- Too Many Paintings!
+- VO: Better Dogs
 
 Removed
-- Salt's Animal Farm
-- Nemo's Inventory Sorting
-- Ok Zoomer
-- ItemSwapper
-- Ultimate Map Atlases
-
-**Legacies 26-v3.0**
-
-What's New
-- Legacies is now on 26.1!
-- Jeweling system alongside overhauled Wands, with 10 unique Gems to collect and combine
-- crashed meteors and throwable glow sticks!
-- major enchanting system additions, including a use for Chiseled Bookshelves and enhanced slot systems and tooltips
-- 4 new blessings, 3 new enchantments and a new curse
-- a new biome - the Lavender Fields!
-- the Map Atlas is here!
-- overhaul of the Hook
-- combat tweaks
-- improved tooltips
-- full in-game Playlist, with dozens of albums and heavily controllable playback
-- full in-game Friends & Multiplayer, with peer-to-peer support (based on 26.2 and other upcoming vanilla features)
-- tons of balance changes, reworks and QOL
-- overhauled late-game gear balance (full rebalancing / more interesting gameplay design for Remnant, Netherite & Featherzeal)
-- improved structures. Enjoy new Desert Pyramids, Jungle Temples and Ocean Monuments
-- as always, these are just random highlights - there's so much more :)
-
-Advancements
-- added Chiseled (Legacies)
-- added Bejeweled (Adventure)
-- added Gem Collector (Adventure)
-- added Bucketed (Adventure)
-- added Fallen and Forgotten (Overworld)
-- Like A Feather now only triggers if a Boomerang was actually thrown
-- renamed Chambers and Challenges to Minecraft: Trial(s) Edition
-
-Splashes
-- added "Music by fingerspit!"
-- added "Music by Jorclai!"
-- added "Music by Antimo & Welles!"
-- added "Music by Shauny Jang!"
-- added "Music by Johan Johnson!"
-- added "The update that took forever!"
-- added "Super Duper Original: Ultra Deluxe"
-- added "This is a splash text!"
-- added "Wither Storm not included"
-- added "Falling from the sky!"
-- added "What's on the other side of that portal?"
-- added "As above, so below"
-- added "0 + 0 + 7"
-- updated "Java 16 + 1 + 4 = 21!" to "Java 16 + 1 + 4 * 2 = 25!"
-
-Changed
-- updated shaders to Complementary r5.8.1 + Euphoria r1.9.2
-- lowered the GUI scale of menus by 1
-- added new Playlist & Friends buttons to menus, in addition to other menu changes
-- animated menu backgrounds are now higher quality, no longer require remote downloads and have interactive effects
-- reset player options and resource packs, obviously (what else were you expecting jumping from 1.21.11 -> 26.1?)
-- updated credits
-- a lot. As a new MC version, this changelog has been cut incredibly short for my sanity, and because a proper changelog between an official MC release isn't particularly realistic
+- Lazy DFU Unofficial Port
+- Map Distance Fix
+- Advancements Reloaded
+- Faster Iris Shadow Mapper
+- Friends List Backport
