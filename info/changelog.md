@@ -1,3 +1,35 @@
+**Legacies 26-v4.1**
+
+Added
+- BisectHosting Server Integration Menu
+
+Advancements
+- fixed "Adventuring Time"
+- added Music Disc Bounce to the requirements of "Record Holder"
+
+Changed
+- fixed the Screenshot Gallery appearing on the introduction screen
+- Lodestone compasses now use exact coords, rather than relative coords
+- FPS Sync is now enabled by default
+- fixed the opening music suddenly stopping due to an internal desync
+- JEI bookmarking now uses B, rather than A, as the default keybind
+- Dynamic FPS no longer forces vsync when it believes your device to be on battery
+- reset fabric_default_resource_packs.json
+- reset options.txt
+
+Updated
+- Music and Melody
+- Bits and Balance
+- Client Sort
+- Dasik Library
+- Fabric API
+- Fabric Language Kotlin
+- Just Enough Items
+- Lithostitched
+- Moog's Structure Lib
+- Reliable Remover
+- VO: Better Dogs
+
 **Legacies 26-v4.0**
 
 What's New
