@@ -14,8 +14,8 @@ Changed
 - fixed the opening music suddenly stopping due to an internal desync
 - JEI bookmarking now uses B, rather than A, as the default keybind
 - Dynamic FPS no longer forces vsync when it believes your device to be on battery
-- reset fabric_default_resource_packs.json
-- reset options.txt
+- reset `fabric_default_resource_packs.json`
+- reset `options.txt`
 
 Updated
 - Music and Melody
@@ -79,8 +79,8 @@ Changed
 - updated menu icons for the addition of the Screenshot Gallery and removal of the Friends page
 - fixed inventory-open flicker
 - updated credits
-- reset fabric_default_resource_packs.json
-- reset options.txt
+- reset `fabric_default_resource_packs.json`
+- reset `options.txt`
 
 Updated
 - Fabric Loader to 0.19.5
